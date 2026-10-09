@@ -25,10 +25,10 @@
 
 | No. | 标题 | 主题 | 文档 | 核心结论 | 状态 |
 | --- | --- | --- | --- | --- | --- |
-| 01 | [当 Gas 费变成"税"：EIP-1559 的销毁机制与以太坊验证者实际收益率](research/01-eip1559-gas-fee-redistribution.md) | Tokenomics · 费用市场 · 验证者收益 | [中文](research/01-eip1559-gas-fee-redistribution.md) · [EN](research/01-eip1559-gas-fee-redistribution_en.md) | <sub>销毁并未在时序上"挤压"验证者 tip；但它相当于对验证者收入征收约 **64%（均值）的结构性税率** τ = burn/(burn+tip)——实质是把铸币税收入再分配给全体持币者。</sub> | ✅ |
-| 02 | [微观·MEV-Boost 时代的价值分配：验证者、构建者与搜索者的实证分析](research/02-mev-boost-value-distribution.md) | 微观 · MEV · PBS | [中文](research/02-mev-boost-value-distribution.md) · [EN](research/02-mev-boost-value-distribution_en.md) | <sub>PBS 时代排序权租金已从验证者转移到构建者/搜索者：**Top-3 构建者拿走约 40% 的 MEV 价值（HHI ≈ 0.09）**，验证者只拿到拍卖残余。</sub> | ✅ |
-| 03 | [流动性挖矿的补贴效率：代币激励有多少转化成了真实交易量？](research/03-liquidity-mining-subsidy-efficiency.md) | 中观 · 协议层博弈 · 代币激励 | [中文](research/03-liquidity-mining-subsidy-efficiency.md) · [EN](research/03-liquidity-mining-subsidy-efficiency_en.md) | <sub>DeFi 池子收益中位数仅 **0.6% 来自代币补贴**，但 **146 个池子 >90% 靠补贴**——补贴效率两极分化是判断协议可持续性的关键。</sub> | ✅ |
-| 04 | [高资金费率是否预示市场回调？——来自加密衍生品市场的实证](research/04-funding-rate-market-top-signal.md) | 宏观 · 衍生品 · 市场周期 | [中文](research/04-funding-rate-market-top-signal.md) · [EN](research/04-funding-rate-market-top-signal_en.md) | <sub>日频上资金费率是**很弱的反向信号**（`corr ≈ −0.064`）；它是"拥挤度"指标，而非可靠的择时开关。</sub> | ✅ |
+| 01 | [<sub>当 Gas 费变成"税"：EIP-1559 的销毁机制与以太坊验证者实际收益率</sub>](research/01-eip1559-gas-fee-redistribution.md) | Tokenomics · 费用市场 · 验证者收益 | [中文](research/01-eip1559-gas-fee-redistribution.md) · [EN](research/01-eip1559-gas-fee-redistribution_en.md) | <sub>销毁并未在时序上"挤压"验证者 tip；但它相当于对验证者收入征收约 **64%（均值）的结构性税率** τ = burn/(burn+tip)——实质是把铸币税收入再分配给全体持币者。</sub> | ✅ |
+| 02 | [<sub>微观·MEV-Boost 时代的价值分配：验证者、构建者与搜索者的实证分析</sub>](research/02-mev-boost-value-distribution.md) | 微观 · MEV · PBS | [中文](research/02-mev-boost-value-distribution.md) · [EN](research/02-mev-boost-value-distribution_en.md) | <sub>PBS 时代排序权租金已从验证者转移到构建者/搜索者：**Top-3 构建者拿走约 40% 的 MEV 价值（HHI ≈ 0.09）**，验证者只拿到拍卖残余。</sub> | ✅ |
+| 03 | [<sub>流动性挖矿的补贴效率：代币激励有多少转化成了真实交易量？</sub>](research/03-liquidity-mining-subsidy-efficiency.md) | 中观 · 协议层博弈 · 代币激励 | [中文](research/03-liquidity-mining-subsidy-efficiency.md) · [EN](research/03-liquidity-mining-subsidy-efficiency_en.md) | <sub>DeFi 池子收益中位数仅 **0.6% 来自代币补贴**，但 **146 个池子 >90% 靠补贴**——补贴效率两极分化是判断协议可持续性的关键。</sub> | ✅ |
+| 04 | [<sub>高资金费率是否预示市场回调？——来自加密衍生品市场的实证</sub>](research/04-funding-rate-market-top-signal.md) | 宏观 · 衍生品 · 市场周期 | [中文](research/04-funding-rate-market-top-signal.md) · [EN](research/04-funding-rate-market-top-signal_en.md) | <sub>日频上资金费率是**很弱的反向信号**（`corr ≈ −0.064`）；它是"拥挤度"指标，而非可靠的择时开关。</sub> | ✅ |
 
 后续计划中的选题：
 
