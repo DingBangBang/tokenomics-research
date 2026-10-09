@@ -5,6 +5,8 @@
 >
 > 作者：**Bonnie Bennett** — Senior Data Analyst / Data Scientist
 > 🔗 个人网站：https://dingbangbang.github.io/
+>
+> 🌐 语言：**中文** · [English version / 英文版 →](README.en.md)
 
 ---
 
@@ -14,22 +16,24 @@
 本仓库刻意采用一种**先提出问题 → 建立经济模型 → 用链上数据检验 → 给出政策建议**的写作范式：
 
 - **选题聚焦**：不泛泛谈"区块链经济学"，每个 Note 只回答一个可被证伪的具体问题。
-- **数据支撑**：所有结论都用公开的链上数据（Dune Analytics / Etherscan）复算，SQL 全部开源。
+- **数据支撑**：所有结论都用公开数据（Dune Analytics / Blockchair / Binance / DefiLlama）复算，SQL 与代码全部开源。
 - **输出形式**：一份 3,000–5,000 字的研究报告，含文献综述、数据可视化、结论与政策建议。
 
 ---
 
 ## 📚 研究笔记索引
 
-| No. | 标题 | 主题 | 状态 |
-| --- | --- | --- | --- |
-| 01 | [当 Gas 费变成"税"：EIP-1559 的销毁机制与以太坊验证者实际收益率](research/01-eip1559-gas-fee-redistribution.md) | Tokenomics · 费用市场 · 验证者收益 | ✅ 已发布 |
+| No. | 标题 | 主题 | 语言 | 状态 |
+| --- | --- | --- | --- | --- |
+| 01 | [当 Gas 费变成"税"：EIP-1559 的销毁机制与以太坊验证者实际收益率](research/01-eip1559-gas-fee-redistribution.md) | Tokenomics · 费用市场 · 验证者收益 | [中](research/01-eip1559-gas-fee-redistribution.md) / [EN](research/01-eip1559-gas-fee-redistribution.en.md) | ✅ 已发布 |
+| 02 | [微观·MEV-Boost 时代的价值分配：验证者、构建者与搜索者的实证分析](research/02-mev-boost-value-distribution.md) | 微观 · MEV · PBS | 中 | ✅ 已发布 |
+| 03 | [流动性挖矿的补贴效率：代币激励有多少转化成了真实交易量？](research/03-liquidity-mining-subsidy-efficiency.md) | 中观 · 协议层博弈 · 代币激励 | 中 | ✅ 已发布 |
+| 04 | [高资金费率是否预示市场回调？——来自加密衍生品市场的实证](research/04-funding-rate-market-top-signal.md) | 宏观 · 衍生品 · 市场周期 | 中 | ✅ 已发布 |
 
 后续计划中的选题：
 
-- **02** — MEV 再分配：PBS 与 Builder 市场的价值捕获（谁拿走了排序权租金？）
-- **03** — L2 的"数据税"：Blob 空间定价与 Rollup 成本转嫁
-- **04** — 质押收益率的期限结构：共识层通胀 vs 执行层费用
+- **05** — L2 的"数据税"：Blob 空间定价与 Rollup 成本转嫁
+- **06** — 质押收益率的期限结构：共识层通胀 vs 执行层费用
 
 ---
 
@@ -37,19 +41,19 @@
 
 ```
 .
-├── README.md                                   # 本文件：研究笔记索引
+├── README.md                                   # 中文版主 README（本文件）
+├── README.en.md                                # 英文版 README
 ├── research/
-│   └── 01-eip1559-gas-fee-redistribution.md    # Note 01 完整研究报告
+│   ├── 01-eip1559-gas-fee-redistribution.md        # Note 01 中文
+│   ├── 01-eip1559-gas-fee-redistribution.en.md     # Note 01 English
+│   ├── 02-mev-boost-value-distribution.md          # Note 02 中文
+│   ├── 03-liquidity-mining-subsidy-efficiency.md   # Note 03 中文
+│   └── 04-funding-rate-market-top-signal.md        # Note 04 中文
 ├── queries/                                    # 可复现的 DuneSQL 查询
-│   ├── 01_daily_gas_and_fee_decomposition.sql
-│   ├── 02_burn_timeseries.sql
-│   ├── 03_validator_revenue_structure.sql
-│   ├── 04_burn_vs_tip_correlation.sql
-│   └── 05_real_yield_and_issuance.sql
-├── data/
-│   └── README.md                               # 数据来源、口径、Dune 查询 ID 登记表
-└── references/
-    └── bibliography.md                          # 参考文献（学术论文 + 链上数据源）
+├── tools/                                      # chartlib.py + build_charts.py（真实数据 → SVG）
+├── assets/charts/                              # 生成的 SVG 图表（不依赖 Dune）
+├── data/                                       # 抓取到的原始 JSON + 口径登记
+└── references/bibliography.md                  # 参考文献（学术论文 + 链上数据源）
 ```
 
 ---
@@ -58,7 +62,11 @@
 
 1. 注册 [Dune Analytics](https://dune.com)，把 `queries/` 下的 SQL 逐个保存为查询并运行。
 2. 在 `data/README.md` 里登记你生成的 **query ID**，替换报告正文中的 `{{dune_query_id}}` 占位符。
-3. 报告中的图表使用 Dune 官方 iframe 嵌入（见 `research/` 内 `## 数据可视化` 一节），也可直接用 Dashboards 分享链接。
+3. 若想**不依赖 Dune** 重新生成图表，运行本项目自带的取数+绘图管线（全部为公开、免 key 接口）：
+   ```bash
+   python3 tools/build_charts.py        # 抓取 Blockchair / Binance / DefiLlama / MEV relay 数据
+   ```
+   它会把原始 JSON 写入 `data/`，把 SVG 图表写入 `assets/charts/`。无需 API key、无需 matplotlib、无需 Dune。
 
 ## ⚖️ 免责声明
 

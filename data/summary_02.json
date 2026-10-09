@@ -1,0 +1,47 @@
+{
+ "blocks": 500,
+ "relays": [
+  "Flashbots",
+  "ultrasound",
+  "Agnostic",
+  "Aestus",
+  "Titan"
+ ],
+ "avg_block_mev_eth": 0.0126,
+ "max_block_mev_eth": 1.339,
+ "builders_seen": 30,
+ "hhi": 0.0898,
+ "top3_value_share_pct": 39.8,
+ "relay_summary": {
+  "Flashbots": {
+   "n": 100,
+   "avg": 0.009,
+   "max": 0.0964,
+   "min": 0.0026
+  },
+  "ultrasound": {
+   "n": 100,
+   "avg": 0.0106,
+   "max": 0.0626,
+   "min": 0.0032
+  },
+  "Agnostic": {
+   "n": 100,
+   "avg": 0.0216,
+   "max": 1.3386,
+   "min": 0.0028
+  },
+  "Aestus": {
+   "n": 100,
+   "avg": 0.0108,
+   "max": 0.1171,
+   "min": 0.0036
+  },
+  "Titan": {
+   "n": 100,
+   "avg": 0.0108,
+   "max": 0.1171,
+   "min": 0.0032
+  }
+ }
+}

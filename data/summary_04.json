@@ -1,0 +1,14 @@
+{
+ "days": 359,
+ "funding_mean_pct": 0.0158,
+ "funding_min_pct": -0.0416,
+ "funding_max_pct": 0.05,
+ "negative_funding_days": 58,
+ "corr_funding_fwd7": -0.0641,
+ "top_decile_fwd7": 0.12,
+ "bottom_decile_fwd7": 0.22,
+ "span": [
+  "2025-10-09",
+  "2026-10-02"
+ ]
+}

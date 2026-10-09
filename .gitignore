@@ -19,3 +19,11 @@ env/
 # IDE
 .idea/
 .vscode/
+
+# secrets / API keys (never commit)
+*API*key*.txt
+*API*ley*.txt
+*endpoint_url*.txt
+.env
+*.key
+secrets/

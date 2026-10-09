@@ -1,0 +1,3502 @@
+[
+ {
+  "relay": "Flashbots",
+  "value": 0.008339902408754709,
+  "gas_used": 27020365,
+  "num_tx": 245,
+  "builder": "0xb7c5c39a33bbcdd2c1a3742e277a69e95195b0fbaf7db44a5156aba8bbf547a3f154726a50d27af3f891b545f47de17b"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.004481461856785134,
+  "gas_used": 36948731,
+  "num_tx": 230,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.003603352060800545,
+  "gas_used": 25125810,
+  "num_tx": 187,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.004463382955532683,
+  "gas_used": 25387459,
+  "num_tx": 188,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007228381577394691,
+  "gas_used": 34693224,
+  "num_tx": 281,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.01032112812231502,
+  "gas_used": 41733768,
+  "num_tx": 321,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.016617197816815144,
+  "gas_used": 35499092,
+  "num_tx": 264,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006036611333453698,
+  "gas_used": 22879406,
+  "num_tx": 230,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.09644451006538499,
+  "gas_used": 38228845,
+  "num_tx": 192,
+  "builder": "0xb7c5e609f8a0d2ea9417db59e8e97fae9846f90a663c7577ed83ab5f740c3a6ed5b6259a2a50e9060ac0bb04eb4a9267"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006496161116025473,
+  "gas_used": 38782119,
+  "num_tx": 294,
+  "builder": "0xa230e2cffb0ddf352cd2986e8a3a4c7ffd0b11ccaa442ff505aa770a91e3db6fcb2c0b75056f12974ca91b9a36ca0e98"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.010180889263684325,
+  "gas_used": 35694459,
+  "num_tx": 270,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.019035726737235224,
+  "gas_used": 59988951,
+  "num_tx": 415,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005999382411189913,
+  "gas_used": 23638763,
+  "num_tx": 293,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005292948108188115,
+  "gas_used": 10480195,
+  "num_tx": 64,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.008337852942765131,
+  "gas_used": 51511479,
+  "num_tx": 437,
+  "builder": "0x885c17ef9c0cd97188a39eb6c2b5368c5484e2a7e04401e214bfcc1c96e0d180d76943c00827d9492edeaafe0b62414e"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.00553924941916685,
+  "gas_used": 21198887,
+  "num_tx": 254,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.00901834050140269,
+  "gas_used": 38900644,
+  "num_tx": 297,
+  "builder": "0x885c17ef9c0cd97188a39eb6c2b5368c5484e2a7e04401e214bfcc1c96e0d180d76943c00827d9492edeaafe0b62414e"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.00521101322107158,
+  "gas_used": 20817208,
+  "num_tx": 246,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.00792209963699588,
+  "gas_used": 51026152,
+  "num_tx": 383,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006995573647915701,
+  "gas_used": 35579562,
+  "num_tx": 324,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005663933410100387,
+  "gas_used": 23789934,
+  "num_tx": 264,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005588121353298873,
+  "gas_used": 27051839,
+  "num_tx": 230,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.004068449827933583,
+  "gas_used": 17489016,
+  "num_tx": 190,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.0543561044607908,
+  "gas_used": 22994467,
+  "num_tx": 270,
+  "builder": "0xb7c5e609f8a0d2ea9417db59e8e97fae9846f90a663c7577ed83ab5f740c3a6ed5b6259a2a50e9060ac0bb04eb4a9267"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007092409131897568,
+  "gas_used": 26022274,
+  "num_tx": 239,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007470024765413771,
+  "gas_used": 39304102,
+  "num_tx": 228,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005194591203136781,
+  "gas_used": 32274417,
+  "num_tx": 253,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007396320264553641,
+  "gas_used": 27264966,
+  "num_tx": 244,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.031930225959189026,
+  "gas_used": 15233970,
+  "num_tx": 136,
+  "builder": "0xb7c5e609f8a0d2ea9417db59e8e97fae9846f90a663c7577ed83ab5f740c3a6ed5b6259a2a50e9060ac0bb04eb4a9267"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.00580545419462917,
+  "gas_used": 27713058,
+  "num_tx": 212,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.00744036575376028,
+  "gas_used": 32973882,
+  "num_tx": 284,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006505375036198673,
+  "gas_used": 33649858,
+  "num_tx": 254,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006199316263222962,
+  "gas_used": 45473794,
+  "num_tx": 233,
+  "builder": "0x860d4173f53be0fe5aa523bf77156ea41aad8a3b3f06e0f2ced30b64c1ba84971b0b42516d5fab95cee5888e94cce153"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.003553423934074684,
+  "gas_used": 25547926,
+  "num_tx": 212,
+  "builder": "0x885c17ef9c0cd97188a39eb6c2b5368c5484e2a7e04401e214bfcc1c96e0d180d76943c00827d9492edeaafe0b62414e"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.009431887386695353,
+  "gas_used": 36267516,
+  "num_tx": 249,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006078467486762878,
+  "gas_used": 24675267,
+  "num_tx": 225,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007162628876434758,
+  "gas_used": 23086512,
+  "num_tx": 212,
+  "builder": "0xa230e2cffb0ddf352cd2986e8a3a4c7ffd0b11ccaa442ff505aa770a91e3db6fcb2c0b75056f12974ca91b9a36ca0e98"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.008993808633967365,
+  "gas_used": 39384727,
+  "num_tx": 412,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006418081428964574,
+  "gas_used": 35594986,
+  "num_tx": 259,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.009830643295789017,
+  "gas_used": 39964922,
+  "num_tx": 277,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006556062468935765,
+  "gas_used": 34444425,
+  "num_tx": 255,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.012588251265904305,
+  "gas_used": 29815271,
+  "num_tx": 248,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.008685612700714163,
+  "gas_used": 25994724,
+  "num_tx": 245,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005542509338447778,
+  "gas_used": 26408720,
+  "num_tx": 203,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007478682195815318,
+  "gas_used": 39870373,
+  "num_tx": 280,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005402513536985255,
+  "gas_used": 37698025,
+  "num_tx": 274,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.00822283079503132,
+  "gas_used": 45609568,
+  "num_tx": 380,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.003905461569299421,
+  "gas_used": 35552624,
+  "num_tx": 251,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005482508087044015,
+  "gas_used": 28250065,
+  "num_tx": 354,
+  "builder": "0x885c17ef9c0cd97188a39eb6c2b5368c5484e2a7e04401e214bfcc1c96e0d180d76943c00827d9492edeaafe0b62414e"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.010467565965821511,
+  "gas_used": 28381400,
+  "num_tx": 266,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005501799987409052,
+  "gas_used": 25175314,
+  "num_tx": 252,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006315098611643464,
+  "gas_used": 23084347,
+  "num_tx": 257,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006524396028600287,
+  "gas_used": 8896049,
+  "num_tx": 145,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005609730481318836,
+  "gas_used": 33258099,
+  "num_tx": 342,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006070750368675267,
+  "gas_used": 28932258,
+  "num_tx": 300,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005211094679800037,
+  "gas_used": 24998699,
+  "num_tx": 208,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005069850416886323,
+  "gas_used": 27053562,
+  "num_tx": 226,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007760730953068595,
+  "gas_used": 45747229,
+  "num_tx": 381,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005856478157764237,
+  "gas_used": 29105412,
+  "num_tx": 229,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.00639205068745077,
+  "gas_used": 53909079,
+  "num_tx": 250,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.00890105000473082,
+  "gas_used": 29562908,
+  "num_tx": 247,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005909031974304306,
+  "gas_used": 14810424,
+  "num_tx": 188,
+  "builder": "0xb7c5e609f8a0d2ea9417db59e8e97fae9846f90a663c7577ed83ab5f740c3a6ed5b6259a2a50e9060ac0bb04eb4a9267"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.022793303845102336,
+  "gas_used": 18880254,
+  "num_tx": 147,
+  "builder": "0xb7c5c39a33bbcdd2c1a3742e277a69e95195b0fbaf7db44a5156aba8bbf547a3f154726a50d27af3f891b545f47de17b"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.014991448478294311,
+  "gas_used": 50420886,
+  "num_tx": 222,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006167332012297883,
+  "gas_used": 25343140,
+  "num_tx": 322,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.009536449338612857,
+  "gas_used": 31390028,
+  "num_tx": 266,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005009014794711285,
+  "gas_used": 34124435,
+  "num_tx": 236,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.00471719612086274,
+  "gas_used": 42928829,
+  "num_tx": 210,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006707853961644815,
+  "gas_used": 25330211,
+  "num_tx": 98,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.011994262184436383,
+  "gas_used": 54795759,
+  "num_tx": 285,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005585729144796887,
+  "gas_used": 36846506,
+  "num_tx": 255,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005138588609434858,
+  "gas_used": 29553313,
+  "num_tx": 200,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.004800613379037564,
+  "gas_used": 22230519,
+  "num_tx": 181,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005777439904500809,
+  "gas_used": 28472606,
+  "num_tx": 206,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007628313543865162,
+  "gas_used": 29377342,
+  "num_tx": 224,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007785838808161666,
+  "gas_used": 27344833,
+  "num_tx": 202,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.009379847842503425,
+  "gas_used": 25657242,
+  "num_tx": 205,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.025173829033853692,
+  "gas_used": 54523522,
+  "num_tx": 364,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007073180703758716,
+  "gas_used": 37702958,
+  "num_tx": 245,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007998091888623573,
+  "gas_used": 59993380,
+  "num_tx": 263,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005711552286760571,
+  "gas_used": 34789570,
+  "num_tx": 249,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.003494054744099282,
+  "gas_used": 13624538,
+  "num_tx": 143,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.004606591902367183,
+  "gas_used": 26739118,
+  "num_tx": 232,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005176120639488025,
+  "gas_used": 22347184,
+  "num_tx": 181,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006199565891374974,
+  "gas_used": 31621922,
+  "num_tx": 247,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.003485154958229018,
+  "gas_used": 20218856,
+  "num_tx": 203,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.004663316422425816,
+  "gas_used": 32695880,
+  "num_tx": 157,
+  "builder": "0x860d4173f53be0fe5aa523bf77156ea41aad8a3b3f06e0f2ced30b64c1ba84971b0b42516d5fab95cee5888e94cce153"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.003927582864604384,
+  "gas_used": 22443732,
+  "num_tx": 158,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.018775657865339215,
+  "gas_used": 29767002,
+  "num_tx": 154,
+  "builder": "0xb7c5e609f8a0d2ea9417db59e8e97fae9846f90a663c7577ed83ab5f740c3a6ed5b6259a2a50e9060ac0bb04eb4a9267"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.016426740985518523,
+  "gas_used": 22686313,
+  "num_tx": 139,
+  "builder": "0xb7c5c39a33bbcdd2c1a3742e277a69e95195b0fbaf7db44a5156aba8bbf547a3f154726a50d27af3f891b545f47de17b"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.007518847373326505,
+  "gas_used": 20227521,
+  "num_tx": 140,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.005231924642603122,
+  "gas_used": 28881271,
+  "num_tx": 213,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.008273200963430625,
+  "gas_used": 39392037,
+  "num_tx": 270,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.002554048792103621,
+  "gas_used": 31114255,
+  "num_tx": 199,
+  "builder": "0x885c17ef9c0cd97188a39eb6c2b5368c5484e2a7e04401e214bfcc1c96e0d180d76943c00827d9492edeaafe0b62414e"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.00320192217849956,
+  "gas_used": 19064972,
+  "num_tx": 142,
+  "builder": "0x885c17ef9c0cd97188a39eb6c2b5368c5484e2a7e04401e214bfcc1c96e0d180d76943c00827d9492edeaafe0b62414e"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006384931302588964,
+  "gas_used": 29410796,
+  "num_tx": 190,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.003512085509566808,
+  "gas_used": 35093978,
+  "num_tx": 163,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.004224060674218207,
+  "gas_used": 22847325,
+  "num_tx": 229,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.006663470979371528,
+  "gas_used": 21061175,
+  "num_tx": 185,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "Flashbots",
+  "value": 0.004133598285313358,
+  "gas_used": 22790656,
+  "num_tx": 201,
+  "builder": "0x88510a78794b69e07f73b2f3ee309f78fc372dcb2ed85d5f80bbe7ebc579778f2a7d6aafbb8b00c00cb7241e1c800d65"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.06260574441909628,
+  "gas_used": 14234139,
+  "num_tx": 110,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.014356307604966256,
+  "gas_used": 38013603,
+  "num_tx": 277,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006794677968803198,
+  "gas_used": 37465733,
+  "num_tx": 313,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008381079327645001,
+  "gas_used": 29842464,
+  "num_tx": 230,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.01810589335623143,
+  "gas_used": 37495785,
+  "num_tx": 273,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008932358538776624,
+  "gas_used": 32620987,
+  "num_tx": 273,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008568682693668386,
+  "gas_used": 27389909,
+  "num_tx": 321,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.005336844414394646,
+  "gas_used": 20099472,
+  "num_tx": 212,
+  "builder": "0xb349dff4b4590ce214bceef642ee908adf12fcf2dc7dd6e8325395874ed6986e63b9ca2e004b57695dca075f1fda3688"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.014884086716081952,
+  "gas_used": 20614465,
+  "num_tx": 207,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.005525188256204236,
+  "gas_used": 19913892,
+  "num_tx": 207,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008655123270099926,
+  "gas_used": 25475614,
+  "num_tx": 205,
+  "builder": "0xa8b3612171b84ca56dac2c4e390f08f775368c0dba07bd0856857abfb301aa9c7dd15b9d0fc568d51b13883ce2375ec7"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.00887933996391784,
+  "gas_used": 37467841,
+  "num_tx": 296,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.007160590417866673,
+  "gas_used": 27720445,
+  "num_tx": 242,
+  "builder": "0xb349dff4b4590ce214bceef642ee908adf12fcf2dc7dd6e8325395874ed6986e63b9ca2e004b57695dca075f1fda3688"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.004381604938035507,
+  "gas_used": 33873747,
+  "num_tx": 367,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008423665708510922,
+  "gas_used": 39797842,
+  "num_tx": 301,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006184765730807723,
+  "gas_used": 30928426,
+  "num_tx": 262,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006110816486791914,
+  "gas_used": 29068858,
+  "num_tx": 280,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008155343609456273,
+  "gas_used": 31356688,
+  "num_tx": 332,
+  "builder": "0xa8b3612171b84ca56dac2c4e390f08f775368c0dba07bd0856857abfb301aa9c7dd15b9d0fc568d51b13883ce2375ec7"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.012903462762611844,
+  "gas_used": 33862937,
+  "num_tx": 272,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.010247299060490043,
+  "gas_used": 45392209,
+  "num_tx": 442,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006475769905094127,
+  "gas_used": 40279566,
+  "num_tx": 330,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.011238096515980223,
+  "gas_used": 9505849,
+  "num_tx": 80,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006362690049194628,
+  "gas_used": 26649733,
+  "num_tx": 251,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.00584745481823995,
+  "gas_used": 21278061,
+  "num_tx": 230,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.005720277677640457,
+  "gas_used": 23866140,
+  "num_tx": 251,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008861734429502397,
+  "gas_used": 42157304,
+  "num_tx": 309,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.013832571042234688,
+  "gas_used": 28602495,
+  "num_tx": 264,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.02336980793252584,
+  "gas_used": 28970360,
+  "num_tx": 247,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.021339047934620686,
+  "gas_used": 52951999,
+  "num_tx": 411,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.010395180822610027,
+  "gas_used": 35828347,
+  "num_tx": 265,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.029010565366385757,
+  "gas_used": 45358676,
+  "num_tx": 306,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.00494112291153872,
+  "gas_used": 59981671,
+  "num_tx": 464,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.010212216367625449,
+  "gas_used": 32108148,
+  "num_tx": 242,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.007766741679735572,
+  "gas_used": 39661120,
+  "num_tx": 152,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008529811373532353,
+  "gas_used": 22746602,
+  "num_tx": 201,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.010231018764224312,
+  "gas_used": 37245616,
+  "num_tx": 305,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.007836363570791876,
+  "gas_used": 20723291,
+  "num_tx": 237,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.009174912777730746,
+  "gas_used": 21981751,
+  "num_tx": 195,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.02752293651433253,
+  "gas_used": 56155469,
+  "num_tx": 485,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006540991773154983,
+  "gas_used": 22882763,
+  "num_tx": 224,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.009795543976424946,
+  "gas_used": 21991997,
+  "num_tx": 230,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.029039997723744423,
+  "gas_used": 23936607,
+  "num_tx": 205,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.005743897471810747,
+  "gas_used": 28811027,
+  "num_tx": 239,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.011547451305878729,
+  "gas_used": 26433370,
+  "num_tx": 265,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.007193547262284476,
+  "gas_used": 41233808,
+  "num_tx": 334,
+  "builder": "0x857b00388fc623b52cec21b5dde4f0e543dd824db41d30480bbd6d1885f9c69833745a0396573aa1013ecacda3c118d7"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006897835253064403,
+  "gas_used": 23588171,
+  "num_tx": 180,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008927991390638797,
+  "gas_used": 31287359,
+  "num_tx": 282,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.007561357879720967,
+  "gas_used": 23994164,
+  "num_tx": 227,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.013456705043415751,
+  "gas_used": 38804626,
+  "num_tx": 288,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008129176735752275,
+  "gas_used": 34694231,
+  "num_tx": 288,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.026805024918742006,
+  "gas_used": 43018200,
+  "num_tx": 281,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.0077305649567979,
+  "gas_used": 33009571,
+  "num_tx": 334,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.014682060024647217,
+  "gas_used": 43604694,
+  "num_tx": 324,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.004481461856785134,
+  "gas_used": 36948731,
+  "num_tx": 230,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.010507908864808539,
+  "gas_used": 34055326,
+  "num_tx": 322,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.038366597763392955,
+  "gas_used": 40397131,
+  "num_tx": 184,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.007388276585348498,
+  "gas_used": 30851991,
+  "num_tx": 264,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.005314423995800455,
+  "gas_used": 18135954,
+  "num_tx": 186,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008949431944892427,
+  "gas_used": 34549356,
+  "num_tx": 313,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.013489269892041043,
+  "gas_used": 39362978,
+  "num_tx": 306,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.009112942960971152,
+  "gas_used": 31815650,
+  "num_tx": 245,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008419416055426055,
+  "gas_used": 35534570,
+  "num_tx": 383,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.004310238888984446,
+  "gas_used": 35838481,
+  "num_tx": 266,
+  "builder": "0x860d4173f53be0fe5aa523bf77156ea41aad8a3b3f06e0f2ced30b64c1ba84971b0b42516d5fab95cee5888e94cce153"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.020946771231828615,
+  "gas_used": 59166692,
+  "num_tx": 557,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006002149047940279,
+  "gas_used": 27750456,
+  "num_tx": 285,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006268931572421881,
+  "gas_used": 25242497,
+  "num_tx": 259,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.008100524017894304,
+  "gas_used": 26840476,
+  "num_tx": 211,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.007092950578238603,
+  "gas_used": 26928518,
+  "num_tx": 293,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.01011821854912764,
+  "gas_used": 29003361,
+  "num_tx": 279,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.007202515684069254,
+  "gas_used": 34039551,
+  "num_tx": 272,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.009073357776639616,
+  "gas_used": 39209157,
+  "num_tx": 320,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.011871825974513616,
+  "gas_used": 30317519,
+  "num_tx": 239,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.03074686879937807,
+  "gas_used": 30188329,
+  "num_tx": 234,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.003615027746531672,
+  "gas_used": 28660598,
+  "num_tx": 258,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.013118748761080868,
+  "gas_used": 37038548,
+  "num_tx": 251,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.005916933618469486,
+  "gas_used": 19257503,
+  "num_tx": 201,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006953403080121144,
+  "gas_used": 45049619,
+  "num_tx": 315,
+  "builder": "0x885c17ef9c0cd97188a39eb6c2b5368c5484e2a7e04401e214bfcc1c96e0d180d76943c00827d9492edeaafe0b62414e"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.005669890475171134,
+  "gas_used": 29019794,
+  "num_tx": 250,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.013241784204331551,
+  "gas_used": 23123066,
+  "num_tx": 258,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.011807471496603925,
+  "gas_used": 52316766,
+  "num_tx": 345,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.012228145497172544,
+  "gas_used": 23920952,
+  "num_tx": 217,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.003662593264582309,
+  "gas_used": 27850616,
+  "num_tx": 219,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.005741051008634159,
+  "gas_used": 37412368,
+  "num_tx": 270,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006868736257585255,
+  "gas_used": 30536853,
+  "num_tx": 214,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006025744910696505,
+  "gas_used": 35355462,
+  "num_tx": 230,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.004202608822972617,
+  "gas_used": 25574415,
+  "num_tx": 189,
+  "builder": "0xa230e2cffb0ddf352cd2986e8a3a4c7ffd0b11ccaa442ff505aa770a91e3db6fcb2c0b75056f12974ca91b9a36ca0e98"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.003603352060800545,
+  "gas_used": 25125810,
+  "num_tx": 187,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.00616353364466342,
+  "gas_used": 29773108,
+  "num_tx": 237,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.004631579384827652,
+  "gas_used": 35470867,
+  "num_tx": 232,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.003943510693255782,
+  "gas_used": 24798795,
+  "num_tx": 218,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.01781464828821197,
+  "gas_used": 33193980,
+  "num_tx": 227,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.003193387855028018,
+  "gas_used": 17088457,
+  "num_tx": 188,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.004463382955532683,
+  "gas_used": 25387459,
+  "num_tx": 188,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.007228381577394691,
+  "gas_used": 34693224,
+  "num_tx": 281,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.01032112812231502,
+  "gas_used": 41733768,
+  "num_tx": 321,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.01056294527962826,
+  "gas_used": 37283562,
+  "num_tx": 313,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.005160049647649818,
+  "gas_used": 23794800,
+  "num_tx": 229,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.016617197816815144,
+  "gas_used": 35499092,
+  "num_tx": 264,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.006960929912293135,
+  "gas_used": 44697725,
+  "num_tx": 349,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "ultrasound",
+  "value": 0.004442725494521392,
+  "gas_used": 25198687,
+  "num_tx": 205,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006002149047940279,
+  "gas_used": 27750456,
+  "num_tx": 285,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.003060127348507469,
+  "gas_used": 12168030,
+  "num_tx": 173,
+  "builder": "0x9129eeb4d9fbbe7cd9118032cfd390fa95d1ded790610b97ba8968f256aee7571ea9ee91b71ad8ef613b4d5cec99ca75"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.016617197816815144,
+  "gas_used": 35499092,
+  "num_tx": 264,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.010180889263684325,
+  "gas_used": 35694459,
+  "num_tx": 270,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005886119836913416,
+  "gas_used": 23347657,
+  "num_tx": 266,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.012682732025629218,
+  "gas_used": 28930946,
+  "num_tx": 292,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.009305462359662123,
+  "gas_used": 28856624,
+  "num_tx": 294,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.00521101322107158,
+  "gas_used": 20817208,
+  "num_tx": 246,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.00906274856008571,
+  "gas_used": 30590581,
+  "num_tx": 339,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.007348318762590683,
+  "gas_used": 26635791,
+  "num_tx": 318,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005809551159573973,
+  "gas_used": 33533140,
+  "num_tx": 272,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006007000296121158,
+  "gas_used": 18951630,
+  "num_tx": 239,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.010797557341006436,
+  "gas_used": 19783297,
+  "num_tx": 253,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.007440810484469203,
+  "gas_used": 19746038,
+  "num_tx": 225,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.008808113656474952,
+  "gas_used": 16431215,
+  "num_tx": 40,
+  "builder": "0x860d4173f53be0fe5aa523bf77156ea41aad8a3b3f06e0f2ced30b64c1ba84971b0b42516d5fab95cee5888e94cce153"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.008521028926717257,
+  "gas_used": 29804916,
+  "num_tx": 278,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.00580545419462917,
+  "gas_used": 27713058,
+  "num_tx": 212,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006505375036198673,
+  "gas_used": 33649858,
+  "num_tx": 254,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.00938217724245897,
+  "gas_used": 18168091,
+  "num_tx": 52,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006078467486762878,
+  "gas_used": 24675267,
+  "num_tx": 225,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005116085953220498,
+  "gas_used": 27518120,
+  "num_tx": 237,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.007488623448203794,
+  "gas_used": 27358707,
+  "num_tx": 168,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005246767262080216,
+  "gas_used": 22853930,
+  "num_tx": 197,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.016795845790017888,
+  "gas_used": 32852718,
+  "num_tx": 245,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.00822283079503132,
+  "gas_used": 45609568,
+  "num_tx": 380,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006315098611643464,
+  "gas_used": 23084347,
+  "num_tx": 257,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006524396028600287,
+  "gas_used": 8896049,
+  "num_tx": 145,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006720685910673438,
+  "gas_used": 50963267,
+  "num_tx": 292,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005211094679800037,
+  "gas_used": 24998699,
+  "num_tx": 208,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005856478157764237,
+  "gas_used": 29105412,
+  "num_tx": 229,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.009179151511344132,
+  "gas_used": 27863567,
+  "num_tx": 231,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.00890105000473082,
+  "gas_used": 29562908,
+  "num_tx": 247,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.003133119501797125,
+  "gas_used": 23555717,
+  "num_tx": 264,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005945882044121642,
+  "gas_used": 21110867,
+  "num_tx": 208,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004688880483683141,
+  "gas_used": 32136694,
+  "num_tx": 252,
+  "builder": "0x860d4173f53be0fe5aa523bf77156ea41aad8a3b3f06e0f2ced30b64c1ba84971b0b42516d5fab95cee5888e94cce153"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006246442128171534,
+  "gas_used": 24150787,
+  "num_tx": 225,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006167332012297883,
+  "gas_used": 25343140,
+  "num_tx": 322,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005755236920626122,
+  "gas_used": 27734477,
+  "num_tx": 217,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.003759856271870335,
+  "gas_used": 17689209,
+  "num_tx": 179,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006707853961644815,
+  "gas_used": 25330211,
+  "num_tx": 98,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004999153535252339,
+  "gas_used": 43007036,
+  "num_tx": 199,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.003719929143543407,
+  "gas_used": 26673568,
+  "num_tx": 175,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004238750068248784,
+  "gas_used": 36707269,
+  "num_tx": 198,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004800613379037564,
+  "gas_used": 22230519,
+  "num_tx": 181,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004985454406680966,
+  "gas_used": 29497957,
+  "num_tx": 200,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005308332755621003,
+  "gas_used": 34816105,
+  "num_tx": 209,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004339429233904062,
+  "gas_used": 40056400,
+  "num_tx": 197,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004606591902367183,
+  "gas_used": 26739118,
+  "num_tx": 232,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005176120639488025,
+  "gas_used": 22347184,
+  "num_tx": 181,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006199565891374974,
+  "gas_used": 31621922,
+  "num_tx": 247,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.003735106778029967,
+  "gas_used": 38067294,
+  "num_tx": 187,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004663316422425816,
+  "gas_used": 32695880,
+  "num_tx": 157,
+  "builder": "0x860d4173f53be0fe5aa523bf77156ea41aad8a3b3f06e0f2ced30b64c1ba84971b0b42516d5fab95cee5888e94cce153"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005439412322166716,
+  "gas_used": 23002033,
+  "num_tx": 174,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.01224799264625302,
+  "gas_used": 47685778,
+  "num_tx": 279,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.013598653730724664,
+  "gas_used": 20536675,
+  "num_tx": 228,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004661999733105343,
+  "gas_used": 26652689,
+  "num_tx": 197,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.03064826067900755,
+  "gas_used": 32077906,
+  "num_tx": 209,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005306225885395887,
+  "gas_used": 32483355,
+  "num_tx": 203,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.003512085509566808,
+  "gas_used": 35093978,
+  "num_tx": 163,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005936921084121697,
+  "gas_used": 22858334,
+  "num_tx": 289,
+  "builder": "0x860d4173f53be0fe5aa523bf77156ea41aad8a3b3f06e0f2ced30b64c1ba84971b0b42516d5fab95cee5888e94cce153"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004278050039817337,
+  "gas_used": 25769382,
+  "num_tx": 165,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004778007518613452,
+  "gas_used": 26611154,
+  "num_tx": 190,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.007924127439693437,
+  "gas_used": 46646170,
+  "num_tx": 248,
+  "builder": "0xb62e9c4ca64d2e327dd3aef6a83a5f4c1569f6882c2f98e3c4619cfc717eced519759d3bfcf552e5c04a83bb75d6935b"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006437860801081716,
+  "gas_used": 37698099,
+  "num_tx": 195,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.012398537303986044,
+  "gas_used": 37988065,
+  "num_tx": 254,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004444385832657675,
+  "gas_used": 40897484,
+  "num_tx": 183,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006015162432232562,
+  "gas_used": 34298414,
+  "num_tx": 233,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004245583960623479,
+  "gas_used": 30378309,
+  "num_tx": 452,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.007225089355602765,
+  "gas_used": 32711498,
+  "num_tx": 262,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.002762956418579456,
+  "gas_used": 24036930,
+  "num_tx": 187,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005473694239558987,
+  "gas_used": 23587941,
+  "num_tx": 228,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004115246156430891,
+  "gas_used": 25674609,
+  "num_tx": 251,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.038804077772130095,
+  "gas_used": 19119167,
+  "num_tx": 182,
+  "builder": "0x9129eeb4d9fbbe7cd9118032cfd390fa95d1ded790610b97ba8968f256aee7571ea9ee91b71ad8ef613b4d5cec99ca75"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.008435931871128741,
+  "gas_used": 29438566,
+  "num_tx": 256,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005363576787301907,
+  "gas_used": 25853394,
+  "num_tx": 250,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005576611781358504,
+  "gas_used": 22397573,
+  "num_tx": 214,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.01942157664792464,
+  "gas_used": 15369525,
+  "num_tx": 131,
+  "builder": "0x8b8edce58fafe098763e4fabdeb318d347f9238845f22c507e813186ea7d44adecd3028f9288048f9ad3bc7c7c735fba"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.003402779085511429,
+  "gas_used": 18784123,
+  "num_tx": 193,
+  "builder": "0x860d4173f53be0fe5aa523bf77156ea41aad8a3b3f06e0f2ced30b64c1ba84971b0b42516d5fab95cee5888e94cce153"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 1.3386260053252086,
+  "gas_used": 15388676,
+  "num_tx": 138,
+  "builder": "0x8b8edce58fafe098763e4fabdeb318d347f9238845f22c507e813186ea7d44adecd3028f9288048f9ad3bc7c7c735fba"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.005950049685831018,
+  "gas_used": 26826549,
+  "num_tx": 171,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.027884559982877432,
+  "gas_used": 28043113,
+  "num_tx": 185,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.00882090076532457,
+  "gas_used": 33658751,
+  "num_tx": 218,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004783344243505872,
+  "gas_used": 33941043,
+  "num_tx": 221,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.014565399755442347,
+  "gas_used": 11917683,
+  "num_tx": 124,
+  "builder": "0xb58080ea0657123c7d3b696d4832b6265fb856788f1df419bf6f907b9ca4e8fca721e501f81efa552b765e48f53657fe"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.009703719904687757,
+  "gas_used": 33730612,
+  "num_tx": 189,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.004590954833427931,
+  "gas_used": 25919492,
+  "num_tx": 213,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006477733706311009,
+  "gas_used": 35586925,
+  "num_tx": 257,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006932814070010348,
+  "gas_used": 24874774,
+  "num_tx": 197,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.003174359128770171,
+  "gas_used": 19952229,
+  "num_tx": 175,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006790464034155647,
+  "gas_used": 47654781,
+  "num_tx": 491,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.006357134260920391,
+  "gas_used": 22374641,
+  "num_tx": 308,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.03829156537579091,
+  "gas_used": 38268505,
+  "num_tx": 326,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.010773014460062572,
+  "gas_used": 37088054,
+  "num_tx": 351,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.016343756457863366,
+  "gas_used": 28879995,
+  "num_tx": 229,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.014699411650835586,
+  "gas_used": 41858888,
+  "num_tx": 269,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.007358799018834012,
+  "gas_used": 27145638,
+  "num_tx": 237,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.011313081524399,
+  "gas_used": 31834695,
+  "num_tx": 282,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.012658204858229924,
+  "gas_used": 31376179,
+  "num_tx": 279,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.008174975847460852,
+  "gas_used": 31130143,
+  "num_tx": 224,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Agnostic",
+  "value": 0.010468083507528585,
+  "gas_used": 21803909,
+  "num_tx": 284,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.11709522055930546,
+  "gas_used": 43507620,
+  "num_tx": 271,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.06260574441909628,
+  "gas_used": 14234139,
+  "num_tx": 110,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.014356307604966256,
+  "gas_used": 38013603,
+  "num_tx": 277,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006794677968803198,
+  "gas_used": 37465733,
+  "num_tx": 313,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008932358538776624,
+  "gas_used": 32620987,
+  "num_tx": 273,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008568682693668386,
+  "gas_used": 27389909,
+  "num_tx": 321,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005336844414394646,
+  "gas_used": 20099472,
+  "num_tx": 212,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005525188256204236,
+  "gas_used": 19913892,
+  "num_tx": 207,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008655123270099926,
+  "gas_used": 25475614,
+  "num_tx": 205,
+  "builder": "0xa8b3612171b84ca56dac2c4e390f08f775368c0dba07bd0856857abfb301aa9c7dd15b9d0fc568d51b13883ce2375ec7"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.00887933996391784,
+  "gas_used": 37467841,
+  "num_tx": 296,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008423665708510922,
+  "gas_used": 39797842,
+  "num_tx": 301,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006184765730807723,
+  "gas_used": 30928426,
+  "num_tx": 262,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006110816486791914,
+  "gas_used": 29068858,
+  "num_tx": 280,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008155343609456273,
+  "gas_used": 31356688,
+  "num_tx": 332,
+  "builder": "0xa8b3612171b84ca56dac2c4e390f08f775368c0dba07bd0856857abfb301aa9c7dd15b9d0fc568d51b13883ce2375ec7"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.010247299060490043,
+  "gas_used": 45392209,
+  "num_tx": 442,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006475769905094127,
+  "gas_used": 40279566,
+  "num_tx": 330,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.011238096515980223,
+  "gas_used": 9505849,
+  "num_tx": 80,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008861734429502397,
+  "gas_used": 42157304,
+  "num_tx": 309,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.02336980793252584,
+  "gas_used": 28970360,
+  "num_tx": 247,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.029010565366385757,
+  "gas_used": 45358676,
+  "num_tx": 306,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.00494112291153872,
+  "gas_used": 59981671,
+  "num_tx": 464,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.007766741679735572,
+  "gas_used": 39661120,
+  "num_tx": 152,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.007836363570791876,
+  "gas_used": 20723291,
+  "num_tx": 237,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006540991773154983,
+  "gas_used": 22882763,
+  "num_tx": 224,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006897835253064403,
+  "gas_used": 23588171,
+  "num_tx": 180,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008927991390638797,
+  "gas_used": 31287359,
+  "num_tx": 282,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.007561357879720967,
+  "gas_used": 23994164,
+  "num_tx": 227,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.014682060024647217,
+  "gas_used": 43604694,
+  "num_tx": 324,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.038366597763392955,
+  "gas_used": 40397131,
+  "num_tx": 184,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.007388276585348498,
+  "gas_used": 30851991,
+  "num_tx": 264,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008949431944892427,
+  "gas_used": 34549356,
+  "num_tx": 313,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.004310238888984446,
+  "gas_used": 35838481,
+  "num_tx": 266,
+  "builder": "0x860d4173f53be0fe5aa523bf77156ea41aad8a3b3f06e0f2ced30b64c1ba84971b0b42516d5fab95cee5888e94cce153"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006002149047940279,
+  "gas_used": 27750456,
+  "num_tx": 285,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006268931572421881,
+  "gas_used": 25242497,
+  "num_tx": 259,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008100524017894304,
+  "gas_used": 26840476,
+  "num_tx": 211,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.01011821854912764,
+  "gas_used": 29003361,
+  "num_tx": 279,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.011871825974513616,
+  "gas_used": 30317519,
+  "num_tx": 239,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.003615027746531672,
+  "gas_used": 28660598,
+  "num_tx": 258,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005916933618469486,
+  "gas_used": 19257503,
+  "num_tx": 201,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005669890475171134,
+  "gas_used": 29019794,
+  "num_tx": 250,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.013241784204331551,
+  "gas_used": 23123066,
+  "num_tx": 258,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.011807471496603925,
+  "gas_used": 52316766,
+  "num_tx": 345,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.012228145497172544,
+  "gas_used": 23920952,
+  "num_tx": 217,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.003662593264582309,
+  "gas_used": 27850616,
+  "num_tx": 219,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005741051008634159,
+  "gas_used": 37412368,
+  "num_tx": 270,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006868736257585255,
+  "gas_used": 30536853,
+  "num_tx": 214,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.004631579384827652,
+  "gas_used": 35470867,
+  "num_tx": 232,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.003943510693255782,
+  "gas_used": 24798795,
+  "num_tx": 218,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.01781464828821197,
+  "gas_used": 33193980,
+  "num_tx": 227,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.01032112812231502,
+  "gas_used": 41733768,
+  "num_tx": 321,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.016617197816815144,
+  "gas_used": 35499092,
+  "num_tx": 264,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006960929912293135,
+  "gas_used": 44697725,
+  "num_tx": 349,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006077009623007392,
+  "gas_used": 24153975,
+  "num_tx": 255,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.004896202635185566,
+  "gas_used": 26391665,
+  "num_tx": 238,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.007849770575202034,
+  "gas_used": 23921840,
+  "num_tx": 225,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006036611333453698,
+  "gas_used": 22879406,
+  "num_tx": 230,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.004080690072901439,
+  "gas_used": 28492326,
+  "num_tx": 223,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.007521701933342421,
+  "gas_used": 40129368,
+  "num_tx": 315,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.007163508176854381,
+  "gas_used": 28220903,
+  "num_tx": 242,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005765797731259199,
+  "gas_used": 27003411,
+  "num_tx": 179,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.007533617986844033,
+  "gas_used": 30816695,
+  "num_tx": 240,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.004832819011307238,
+  "gas_used": 24830318,
+  "num_tx": 234,
+  "builder": "0x885c17ef9c0cd97188a39eb6c2b5368c5484e2a7e04401e214bfcc1c96e0d180d76943c00827d9492edeaafe0b62414e"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005874492989626453,
+  "gas_used": 40765682,
+  "num_tx": 339,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.05410538337124627,
+  "gas_used": 38045441,
+  "num_tx": 221,
+  "builder": "0xb7c5beefbaea0b050764617a764d571929a8a250e9e1226a3c31c738d05ea1fc8b3f2d455e15d623f6a64d52e4f84761"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.02225821200236951,
+  "gas_used": 30055008,
+  "num_tx": 234,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.010066837393129812,
+  "gas_used": 46774917,
+  "num_tx": 333,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008509163993700284,
+  "gas_used": 27786093,
+  "num_tx": 200,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005488010959494969,
+  "gas_used": 32180348,
+  "num_tx": 230,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006867129189149147,
+  "gas_used": 23085987,
+  "num_tx": 236,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005469137078714015,
+  "gas_used": 53288230,
+  "num_tx": 323,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.00537081716440178,
+  "gas_used": 21338417,
+  "num_tx": 213,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.004813294037323181,
+  "gas_used": 20952541,
+  "num_tx": 230,
+  "builder": "0xa8b3612171b84ca56dac2c4e390f08f775368c0dba07bd0856857abfb301aa9c7dd15b9d0fc568d51b13883ce2375ec7"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.004578396606099798,
+  "gas_used": 17560616,
+  "num_tx": 205,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005989442876670874,
+  "gas_used": 37461485,
+  "num_tx": 245,
+  "builder": "0x97ce3324c0193a6484d43e733bd5112e320ea4338766ef9bbe3f7970ff8bd5a11350c748719cc561202d621dd37fdaad"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006779347464984907,
+  "gas_used": 33709704,
+  "num_tx": 390,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005784103902197908,
+  "gas_used": 36705650,
+  "num_tx": 309,
+  "builder": "0xa03781b94ceb05f453fb9509e9b20a6b56e8bf8c0d39fe34a76a0c36a3619d67ba2f429e73f48fbca248bafe9238ac62"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.009497746796086923,
+  "gas_used": 11711918,
+  "num_tx": 127,
+  "builder": "0x8789ce8c8ce3244f9e2d47fa4923381c8ca9c1be984be16b698feb17b456caf29fc68693704ba165b4c78d1f075fe27d"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008480374525802251,
+  "gas_used": 24827156,
+  "num_tx": 277,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008530778710903414,
+  "gas_used": 30802084,
+  "num_tx": 243,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.011228307432645407,
+  "gas_used": 20292326,
+  "num_tx": 242,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.010180889263684325,
+  "gas_used": 35694459,
+  "num_tx": 270,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.009665753477829412,
+  "gas_used": 35770286,
+  "num_tx": 269,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.007748687600434235,
+  "gas_used": 53894311,
+  "num_tx": 481,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005999382411189913,
+  "gas_used": 23638763,
+  "num_tx": 293,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005886119836913416,
+  "gas_used": 23347657,
+  "num_tx": 266,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.004074752545206823,
+  "gas_used": 36035387,
+  "num_tx": 331,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.012682732025629218,
+  "gas_used": 28930946,
+  "num_tx": 292,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.007463019348305666,
+  "gas_used": 40862177,
+  "num_tx": 345,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.009013149720038404,
+  "gas_used": 34752621,
+  "num_tx": 327,
+  "builder": "0x97ce3324c0193a6484d43e733bd5112e320ea4338766ef9bbe3f7970ff8bd5a11350c748719cc561202d621dd37fdaad"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.009305462359662123,
+  "gas_used": 28856624,
+  "num_tx": 294,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006706355248661436,
+  "gas_used": 29414549,
+  "num_tx": 271,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.014649967977503496,
+  "gas_used": 58836105,
+  "num_tx": 474,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006267436020500206,
+  "gas_used": 29488607,
+  "num_tx": 363,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005292948108188115,
+  "gas_used": 10480195,
+  "num_tx": 64,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.01601944188401281,
+  "gas_used": 54083048,
+  "num_tx": 374,
+  "builder": "0x857b00388fc623b52cec21b5dde4f0e543dd824db41d30480bbd6d1885f9c69833745a0396573aa1013ecacda3c118d7"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005830272851451034,
+  "gas_used": 45228149,
+  "num_tx": 509,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.006575485435935393,
+  "gas_used": 29550623,
+  "num_tx": 279,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.008374441031394756,
+  "gas_used": 34612062,
+  "num_tx": 315,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.009581347376384773,
+  "gas_used": 28617276,
+  "num_tx": 261,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "Aestus",
+  "value": 0.005368541059348386,
+  "gas_used": 33574423,
+  "num_tx": 245,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.11709522055930546,
+  "gas_used": 43507620,
+  "num_tx": 271,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.014356307604966256,
+  "gas_used": 38013603,
+  "num_tx": 277,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006794677968803198,
+  "gas_used": 37465733,
+  "num_tx": 313,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.01810589335623143,
+  "gas_used": 37495785,
+  "num_tx": 273,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.008932358538776624,
+  "gas_used": 32620987,
+  "num_tx": 273,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.008568682693668386,
+  "gas_used": 27389909,
+  "num_tx": 321,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.005336844414394646,
+  "gas_used": 20099472,
+  "num_tx": 212,
+  "builder": "0xb349dff4b4590ce214bceef642ee908adf12fcf2dc7dd6e8325395874ed6986e63b9ca2e004b57695dca075f1fda3688"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.014884086716081952,
+  "gas_used": 20614465,
+  "num_tx": 207,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.005525188256204236,
+  "gas_used": 19913892,
+  "num_tx": 207,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.008655123270099926,
+  "gas_used": 25475614,
+  "num_tx": 205,
+  "builder": "0xa8b3612171b84ca56dac2c4e390f08f775368c0dba07bd0856857abfb301aa9c7dd15b9d0fc568d51b13883ce2375ec7"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.00887933996391784,
+  "gas_used": 37467841,
+  "num_tx": 296,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.007160590417866673,
+  "gas_used": 27720445,
+  "num_tx": 242,
+  "builder": "0xb349dff4b4590ce214bceef642ee908adf12fcf2dc7dd6e8325395874ed6986e63b9ca2e004b57695dca075f1fda3688"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.008423665708510922,
+  "gas_used": 39797842,
+  "num_tx": 301,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006184765730807723,
+  "gas_used": 30928426,
+  "num_tx": 262,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.009241021063664465,
+  "gas_used": 34921856,
+  "num_tx": 232,
+  "builder": "0x860d4173f53be0fe5aa523bf77156ea41aad8a3b3f06e0f2ced30b64c1ba84971b0b42516d5fab95cee5888e94cce153"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.008155343609456273,
+  "gas_used": 31356688,
+  "num_tx": 332,
+  "builder": "0xa8b3612171b84ca56dac2c4e390f08f775368c0dba07bd0856857abfb301aa9c7dd15b9d0fc568d51b13883ce2375ec7"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.012903462762611844,
+  "gas_used": 33862937,
+  "num_tx": 272,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.010247299060490043,
+  "gas_used": 45392209,
+  "num_tx": 442,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.01220707847570216,
+  "gas_used": 9003580,
+  "num_tx": 40,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006475769905094127,
+  "gas_used": 40279566,
+  "num_tx": 330,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.011238096515980223,
+  "gas_used": 9505849,
+  "num_tx": 80,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006362690049194628,
+  "gas_used": 26649733,
+  "num_tx": 251,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.00584745481823995,
+  "gas_used": 21278061,
+  "num_tx": 230,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.005720277677640457,
+  "gas_used": 23866140,
+  "num_tx": 251,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.008861734429502397,
+  "gas_used": 42157304,
+  "num_tx": 309,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.013832571042234688,
+  "gas_used": 28602495,
+  "num_tx": 264,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.021339047934620686,
+  "gas_used": 52951999,
+  "num_tx": 411,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.010395180822610027,
+  "gas_used": 35828347,
+  "num_tx": 265,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.029010565366385757,
+  "gas_used": 45358676,
+  "num_tx": 306,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.00494112291153872,
+  "gas_used": 59981671,
+  "num_tx": 464,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.010212216367625449,
+  "gas_used": 32108148,
+  "num_tx": 242,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.007766741679735572,
+  "gas_used": 39661120,
+  "num_tx": 152,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.010231018764224312,
+  "gas_used": 37245616,
+  "num_tx": 305,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.007836363570791876,
+  "gas_used": 20723291,
+  "num_tx": 237,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.02752293651433253,
+  "gas_used": 56155469,
+  "num_tx": 485,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006540991773154983,
+  "gas_used": 22882763,
+  "num_tx": 224,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.009795543976424946,
+  "gas_used": 21991997,
+  "num_tx": 230,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.029039997723744423,
+  "gas_used": 23936607,
+  "num_tx": 205,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.005743897471810747,
+  "gas_used": 28811027,
+  "num_tx": 239,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.011547451305878729,
+  "gas_used": 26433370,
+  "num_tx": 265,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.008544770363138035,
+  "gas_used": 31863461,
+  "num_tx": 246,
+  "builder": "0xa230e2cffb0ddf352cd2986e8a3a4c7ffd0b11ccaa442ff505aa770a91e3db6fcb2c0b75056f12974ca91b9a36ca0e98"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.007193547262284476,
+  "gas_used": 41233808,
+  "num_tx": 334,
+  "builder": "0x857b00388fc623b52cec21b5dde4f0e543dd824db41d30480bbd6d1885f9c69833745a0396573aa1013ecacda3c118d7"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006897835253064403,
+  "gas_used": 23588171,
+  "num_tx": 180,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.008927991390638797,
+  "gas_used": 31287359,
+  "num_tx": 282,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.007561357879720967,
+  "gas_used": 23994164,
+  "num_tx": 227,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.013456705043415751,
+  "gas_used": 38804626,
+  "num_tx": 288,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.008129176735752275,
+  "gas_used": 34694231,
+  "num_tx": 288,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.026805024918742006,
+  "gas_used": 43018200,
+  "num_tx": 281,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.0077305649567979,
+  "gas_used": 33009571,
+  "num_tx": 334,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.014682060024647217,
+  "gas_used": 43604694,
+  "num_tx": 324,
+  "builder": "0x850b00e055388c1b56f137e0852bc02d8b05534e9f96dd1d11cff8cf0481b800ecc2e708cdc158cd95b7cfdaa6840ee7"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.004481461856785134,
+  "gas_used": 36948731,
+  "num_tx": 230,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.010507908864808539,
+  "gas_used": 34055326,
+  "num_tx": 322,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.007388276585348498,
+  "gas_used": 30851991,
+  "num_tx": 264,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.009612,
+  "gas_used": 47164136,
+  "num_tx": 324,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.008949431944892427,
+  "gas_used": 34549356,
+  "num_tx": 313,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.013489269892041043,
+  "gas_used": 39362978,
+  "num_tx": 306,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.009112942960971152,
+  "gas_used": 31815650,
+  "num_tx": 245,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.004310238888984446,
+  "gas_used": 35838481,
+  "num_tx": 266,
+  "builder": "0x860d4173f53be0fe5aa523bf77156ea41aad8a3b3f06e0f2ced30b64c1ba84971b0b42516d5fab95cee5888e94cce153"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.020946771231828615,
+  "gas_used": 59166692,
+  "num_tx": 557,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006002149047940279,
+  "gas_used": 27750456,
+  "num_tx": 285,
+  "builder": "0xa131d69e684d9215390efc2c2e90939fc02f77c5baad77b4b82007fa7f30bc4efd8b6df14bcb854193613b66ae207eb0"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006268931572421881,
+  "gas_used": 25242497,
+  "num_tx": 259,
+  "builder": "0xb349dff4b4590ce214bceef642ee908adf12fcf2dc7dd6e8325395874ed6986e63b9ca2e004b57695dca075f1fda3688"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.008100524017894304,
+  "gas_used": 26840476,
+  "num_tx": 211,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.007092950578238603,
+  "gas_used": 26928518,
+  "num_tx": 293,
+  "builder": "0x8a85062118e29045e8b199723d9af519b0c071d9e7586fa89733e798536d4637f8545a169012cc1b76005d9453603273"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.01011821854912764,
+  "gas_used": 29003361,
+  "num_tx": 279,
+  "builder": "0xa01529cf054b3ed523f99a328d853e2532b7719095c6e0951cc675acdb5d206f5ba8f92bcdf12a7add44e272f1be542e"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.007202515684069254,
+  "gas_used": 34039551,
+  "num_tx": 272,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.009073357776639616,
+  "gas_used": 39209157,
+  "num_tx": 320,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.011871825974513616,
+  "gas_used": 30317519,
+  "num_tx": 239,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.03074686879937807,
+  "gas_used": 30188329,
+  "num_tx": 234,
+  "builder": "0x8527d16cf01edcea2cbb05e27f5f61b184578ea27c4015e4533e4cebd6d53297bd004c14fe3f247a468361bf781e0069"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.003615027746531672,
+  "gas_used": 28660598,
+  "num_tx": 258,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.013118748761080868,
+  "gas_used": 37038548,
+  "num_tx": 251,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.005916933618469486,
+  "gas_used": 19257503,
+  "num_tx": 201,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006953403080121144,
+  "gas_used": 45049619,
+  "num_tx": 315,
+  "builder": "0x885c17ef9c0cd97188a39eb6c2b5368c5484e2a7e04401e214bfcc1c96e0d180d76943c00827d9492edeaafe0b62414e"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.005669890475171134,
+  "gas_used": 29019794,
+  "num_tx": 250,
+  "builder": "0xb349dff4b4590ce214bceef642ee908adf12fcf2dc7dd6e8325395874ed6986e63b9ca2e004b57695dca075f1fda3688"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.013241784204331551,
+  "gas_used": 23123066,
+  "num_tx": 258,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.011807471496603925,
+  "gas_used": 52316766,
+  "num_tx": 345,
+  "builder": "0xb3d7ff57142c365494edb49ad5bd541e61df8ba3ecb2cb4e60f3abf20f5558bc5802717685ecb644975c4388cdb29dd5"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.012228145497172544,
+  "gas_used": 23920952,
+  "num_tx": 217,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.003662593264582309,
+  "gas_used": 27850616,
+  "num_tx": 219,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.005741051008634159,
+  "gas_used": 37412368,
+  "num_tx": 270,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006868736257585255,
+  "gas_used": 30536853,
+  "num_tx": 214,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006025744910696505,
+  "gas_used": 35355462,
+  "num_tx": 230,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.004202608822972617,
+  "gas_used": 25574415,
+  "num_tx": 189,
+  "builder": "0xa230e2cffb0ddf352cd2986e8a3a4c7ffd0b11ccaa442ff505aa770a91e3db6fcb2c0b75056f12974ca91b9a36ca0e98"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.003603352060800545,
+  "gas_used": 25125810,
+  "num_tx": 187,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.00616353364466342,
+  "gas_used": 29773108,
+  "num_tx": 237,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.004631579384827652,
+  "gas_used": 35470867,
+  "num_tx": 232,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.003943510693255782,
+  "gas_used": 24798795,
+  "num_tx": 218,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.01781464828821197,
+  "gas_used": 33193980,
+  "num_tx": 227,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.007255495641496563,
+  "gas_used": 43388983,
+  "num_tx": 347,
+  "builder": "0xb26f96664274e15fb6fcda862302e47de7e0e2a6687f8349327a9846043e42596ec44af676126e2cacbdd181f548e681"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.003193387855028018,
+  "gas_used": 17088457,
+  "num_tx": 188,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.004463382955532683,
+  "gas_used": 25387459,
+  "num_tx": 188,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.007228381577394691,
+  "gas_used": 34693224,
+  "num_tx": 281,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.01032112812231502,
+  "gas_used": 41733768,
+  "num_tx": 321,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.01056294527962826,
+  "gas_used": 37283562,
+  "num_tx": 313,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.005160049647649818,
+  "gas_used": 23794800,
+  "num_tx": 229,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.016617197816815144,
+  "gas_used": 35499092,
+  "num_tx": 264,
+  "builder": "0x823e0146b1a5bfc5d4391f7f4391b4f170693369a2350c676238fb1bef4b2dc99bb99307f77e084920cdc7721c80b8df"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006960929912293135,
+  "gas_used": 44697725,
+  "num_tx": 349,
+  "builder": "0x853b0078c722ade5dd089dd9ce2eea3890dcc825213231600b3023ab92aa3e835c5325f31515b82a9a0559c881a14cde"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.004442725494521392,
+  "gas_used": 25198687,
+  "num_tx": 205,
+  "builder": "0x88857150299287cedfbadea1ee3fb7ac121f1e4e16bef44b4a7bad35432973c4009efb90394facca3fdc0759ba70f93f"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.007424759580758611,
+  "gas_used": 39532284,
+  "num_tx": 260,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.005554464752443677,
+  "gas_used": 30772809,
+  "num_tx": 252,
+  "builder": "0xb4ce6162ff05198a2a3273c3cc94615e67bff9751d0febe14c2b20a7555221f6edd61c33f128c80b758f522343c72ea1"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.01655014910213629,
+  "gas_used": 56976139,
+  "num_tx": 332,
+  "builder": "0xb67eaa5efcfa1d17319c344e1e5167811afbfe7922a2cf01c9a361f465597a5dc3a5472bd98843bac88d2541a78eab08"
+ },
+ {
+  "relay": "Titan",
+  "value": 0.006248485190668113,
+  "gas_used": 31866465,
+  "num_tx": 243,
+  "builder": "0x8db2a99d06eb076ab83049c2dfed5725ed5cf35772071f43365399ad32e505f0e3ff1e14b9686cd74562dc50c282be26"
+ }
+]

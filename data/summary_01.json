@@ -1,0 +1,11 @@
+{
+ "days": 1892,
+ "months": 63,
+ "cum_burn_eth": 4730503.6,
+ "tau_mean": 66.77,
+ "tau_min": 12.67,
+ "tau_max": 103.65,
+ "tip_total_eth": 901366.8,
+ "first_month": "2021-08",
+ "last_month": "2026-10"
+}

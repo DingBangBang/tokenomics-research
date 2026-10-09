@@ -1,0 +1,62 @@
+{
+ "Uniswap": {
+  "total30d": 146752167.3,
+  "total7d": 24847497,
+  "totalAllTime": 6071057069.250004
+ },
+ "Curve DEX": {
+  "total30d": 3628448,
+  "total7d": 695105,
+  "totalAllTime": 682305041
+ },
+ "Aave": {
+  "total30d": 38180892,
+  "total7d": 9563346,
+  "totalAllTime": 2324249882
+ },
+ "Lido": {
+  "total30d": 52201210,
+  "total7d": 12347261,
+  "totalAllTime": 3378041779
+ },
+ "Compound Finance": {
+  "total30d": 2441131,
+  "total7d": 539480,
+  "totalAllTime": 576240041
+ },
+ "PancakeSwap AMM": {
+  "total30d": 3044147,
+  "total7d": 757806,
+  "totalAllTime": 1047736241
+ },
+ "Balancer": {
+  "total30d": 220179.05,
+  "total7d": 45784,
+  "totalAllTime": 301726714.68
+ },
+ "SushiSwap": {
+  "total30d": 40588,
+  "total7d": 18506,
+  "totalAllTime": 687819963
+ },
+ "GMX": {
+  "total30d": 5594001,
+  "total7d": 1877380,
+  "totalAllTime": 489265539
+ },
+ "Pendle": {
+  "total30d": 432827,
+  "total7d": 104090,
+  "totalAllTime": 67735893
+ },
+ "EigenCloud": {
+  "total30d": 185742,
+  "total7d": 71593,
+  "totalAllTime": 162228178.30999997
+ },
+ "Ethena": {
+  "total30d": 21607117.219999995,
+  "total7d": 3269343.67,
+  "totalAllTime": 1063472906.1900005
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "protocols": 12,
+ "pools_sample": 985,
+ "reward_share_mean_pct": 29.5,
+ "reward_share_median_pct": 0.6,
+ "pools_gt_90pct_subsidised": 146,
+ "top_fees_30d_usd": [
+  [
+   "Uniswap",
+   146752167
+  ],
+  [
+   "Lido",
+   52201210
+  ],
+  [
+   "Aave",
+   38180892
+  ],
+  [
+   "Ethena",
+   21607117
+  ],
+  [
+   "GMX",
+   5594001
+  ],
+  [
+   "Curve DEX",
+   3628448
+  ]
+ ]
+}

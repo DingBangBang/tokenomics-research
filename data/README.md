@@ -1,8 +1,27 @@
 # 数据来源与口径登记表（Data Provenance）
 
-本文件用于登记每一项结论背后的**数据来源、口径、Dune 查询 ID 与快照时点**，保证研究可复现。
+> **重要更新（Notes 01–04 的实际口径）**：报告中的全部图表**不依赖 Dune**，而是由本仓库自带的免 key 管线 [`../tools/build_charts.py`](../tools/build_charts.py) 实时抓取并渲染为 SVG。原始 JSON 见本目录 `n0X_*.json`，统计摘要见 `summary_0X.json`。
 
-## 1. 数据集
+## 0. 免 key 实时数据管线（本次实际使用）
+
+| 报告 | 数据源（公开、免 key） | 关键接口 | 原始文件 |
+| --- | --- | --- | --- |
+| Note 01 以太坊费用/销毁 | Blockchair aggregated API | `/ethereum/blocks?a=date,sum(gas_used),avg(base_fee_per_gas)`；`/ethereum/transactions?a=date,sum(gas_used),avg(gas_price)` | `n01_daily_fees.json` |
+| Note 02 MEV-Boost | Flashbots / ultrasound / Agnostic / Aestus / Titan relay | `/relay/v1/data/bidtraces/proposer_payload_delivered?limit=100` | `n02_mev_blocks.json`、`n02_relay_summary.json` |
+| Note 03 DeFi 补贴/费用 | DefiLlama 开放 API | `/summary/fees/{protocol}?dataType=dailyFees`；`yields.llama.fi/pools` | `n03_protocol_fees.json`、`n03_pools_sample.json` |
+| Note 04 资金费率/价格 | Hyperliquid info API（POST） | `fundingHistory`、`candleSnapshot` | `n04_funding.json`、`n04_candles.json` |
+
+**说明**：部分交易域（Binance/OKX/Bybit）在直连时会被网络重置，管线优先使用 `curl`，并在需要时经由本机代理（`http://127.0.0.1:7897`）；Note 04 因此改用可稳定访问的 Hyperliquid。
+
+**复现**：
+```bash
+python3 tools/build_charts.py           # 运行全部 01–04
+python3 tools/build_charts.py 02 04     # 只运行指定笔记
+```
+
+---
+
+## 1. 数据集（Dune 口径，供可选复算）
 
 | 数据 | Dune 表 / 平台 | 关键字段 | 说明 |
 | --- | --- | --- | --- |
