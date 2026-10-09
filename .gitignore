@@ -1,0 +1,21 @@
+# macOS / editors
+.DS_Store
+Thumbs.db
+*.swp
+
+# Python / notebooks (用于本地复算 Dune 导出的 CSV)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# data exports（大文件不入库，仅保留口径说明）
+*.csv
+*.parquet
+!data/README.md
+
+# IDE
+.idea/
+.vscode/
