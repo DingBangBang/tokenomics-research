@@ -6,6 +6,7 @@
 - **发布日期**：2026-10
 - **方法**：Hyperliquid 公开 info API（小时级资金费率 + 日线价格）+ 十分位/前瞻收益分析
 - **代码/数据**：[`tools/build_charts.py`](../tools/build_charts.py)、[`data/`](../data)
+- 🌐 [English version](04-funding-rate-market-top-signal_en.md)
 - **一句话结论**：在**日频**尺度上，资金费率是一个**很弱**的反向信号——`CORR(funding, 未来 7 日收益) = −0.064`，最高资金费率十分位的未来 7 日收益（+0.12%）**略低于**最低十分位（+0.22%），但差异不足以构成可靠的"见顶"交易信号。资金费率更适合做**拥挤度度量**，而非择时开关。
 
 > **免责声明**：学术与作品展示用途，不构成投资建议。数据为 Hyperliquid 实时快照，口径见 [`data/README.md`](../data/README.md)。

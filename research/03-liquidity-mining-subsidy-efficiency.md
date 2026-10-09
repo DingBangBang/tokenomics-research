@@ -6,6 +6,7 @@
 - **发布日期**：2026-10
 - **方法**：DefiLlama 开放 API（免 key）+ 补贴占比分解 + TVL/费用交叉分析
 - **代码/数据**：[`tools/build_charts.py`](../tools/build_charts.py)、[`data/`](../data)
+- 🌐 [English version](03-liquidity-mining-subsidy-efficiency_en.md)
 - **一句话结论**：绝大多数 DeFi 池子的收益来自**真实手续费**（补贴占比中位数仅 **0.6%**），但存在一个**长尾**——**146 个池子的收益 90% 以上来自代币补贴**，这些池子本质是"代币换 TVL"的短期租赁。补贴效率的两极分化，正是判断协议可持续性的关键。
 
 > **免责声明**：学术与作品展示用途，不构成投资建议。数据为 DefiLlama 实时快照，口径见 [`data/README.md`](../data/README.md)。

@@ -6,6 +6,7 @@
 - **发布日期**：2026-10
 - **方法**：MEV-Boost relay 公开 bidtrace API（免 key）+ 集中度（HHI）与分布分析
 - **代码/数据**：[`tools/build_charts.py`](../tools/build_charts.py)、[`data/`](../data)
+- 🌐 [English version](02-mev-boost-value-distribution_en.md)
 - **一句话结论**：在 PBS（提议者-构建者分离）时代，排序权租金已从"验证者"大规模转移到"构建者"与"搜索者"手中；验证者拿到的只是被**拍卖后**的残余——**Top-3 构建者拿走约 40% 的 MEV 价值，HHI ≈ 0.09**，市场呈"中度集中、头部主导"格局。
 
 > **免责声明**：学术与作品展示用途，不构成投资建议。数据为 relay 公开 API 的实时快照，口径见 [`data/README.md`](../data/README.md)。

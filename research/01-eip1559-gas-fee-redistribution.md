@@ -8,7 +8,7 @@
 - **发布日期**：2026-10
 - **方法**：链上数据（Blockchair 聚合 API，免 key）+ 事件研究 + 相关性/分位数分析
 - **代码/数据**：本仓库 [`tools/`](../tools)、[`data/`](../data)、[`queries/`](../queries)
-- 🌐 [English version](01-eip1559-gas-fee-redistribution.en.md)
+- 🌐 [English version](01-eip1559-gas-fee-redistribution_en.md)
 - **一句话结论**：EIP-1559 并未在时序上"挤压"验证者的单日收益率（销毁与 tip 由同一需求因子驱动、正相关），但它对验证者收入施加了一个**约 64%（均值）的结构性税率**；其实质是把铸币税性质的收入，从验证者重新分配给全体持币者。
 
 > **免责声明**：本文为学术研究与作品展示用途，不构成投资建议。所有数值为作者基于公开、免 key 数据管线（Blockchair，见 [`tools/build_charts.py`](../tools/build_charts.py)）的可复算结果，口径与快照时点见 [`data/README.md`](../data/README.md)。
