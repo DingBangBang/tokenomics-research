@@ -1,5 +1,7 @@
 # When Gas Fees Become a Tax: EIP-1559's Burn Mechanism and Ethereum Validator Real Yield
 
+> **Precise title · Gas-Fee Redistribution and Its Impact on Ethereum Validator Revenue**
+
 **Research Note No.01 · Tokenomics · Blockchain Economics & Trends**
 
 - **Author**: Bonnie Bennett (Senior Data Analyst / Data Scientist)

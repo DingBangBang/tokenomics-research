@@ -23,12 +23,12 @@ This repository deliberately follows one writing pattern: **pose a question → 
 
 ## 📚 Index of research notes
 
-| No. | Title | Topic | Status |
-| --- | --- | --- | --- |
-| 01 | [When Gas Fees Become a Tax: EIP-1559's Burn Mechanism and Ethereum Validator Real Yield](research/01-eip1559-gas-fee-redistribution.en.md) ([中文](research/01-eip1559-gas-fee-redistribution.md)) | Tokenomics · Fee market · Validator revenue | ✅ Published |
-| 02 | [Value Distribution in the MEV-Boost Era: Validators, Builders and Searchers](research/02-mev-boost-value-distribution.md) | Micro · MEV · PBS | ✅ Published |
-| 03 | [The Subsidy Efficiency of Liquidity Mining: How Much Incentive Becomes Real Volume?](research/03-liquidity-mining-subsidy-efficiency.md) | Meso · Protocol games · Token incentives | ✅ Published |
-| 04 | [Does High Funding Predict a Pullback? Evidence from Crypto Derivatives](research/04-funding-rate-market-top-signal.md) | Macro · Derivatives · Market cycle | ✅ Published |
+| No. | Title | Topic | Documents | Key finding (one-liner) | Status |
+| --- | --- | --- | --- | --- | --- |
+| 01 | [When Gas Fees Become a Tax: EIP-1559's Burn Mechanism and Ethereum Validator Real Yield](research/01-eip1559-gas-fee-redistribution.en.md) | Tokenomics · Fee market · Validator revenue | [中文](research/01-eip1559-gas-fee-redistribution.md) · [EN](research/01-eip1559-gas-fee-redistribution.en.md) | The burn does not squeeze tips in the time series, but it imposes a **structural tax of ~64% (mean)** τ = burn/(burn+tip) on validator revenue — seigniorage redistributed to all holders. | ✅ |
+| 02 | [Value Distribution in the MEV-Boost Era: Validators, Builders and Searchers](research/02-mev-boost-value-distribution.en.md) | Micro · MEV · PBS | [中文](research/02-mev-boost-value-distribution.md) · [EN](research/02-mev-boost-value-distribution.en.md) | Under PBS, ordering-rights rent has migrated from validators to builders/searchers: the **top-3 builders capture ~40% of MEV value (HHI ≈ 0.09)**; validators get the auction residual. | ✅ |
+| 03 | [The Subsidy Efficiency of Liquidity Mining: How Much Incentive Becomes Real Volume?](research/03-liquidity-mining-subsidy-efficiency.en.md) | Meso · Protocol games · Token incentives | [中文](research/03-liquidity-mining-subsidy-efficiency.md) · [EN](research/03-liquidity-mining-subsidy-efficiency.en.md) | The median DeFi pool yield is only **0.6% subsidised**, yet **146 pools are >90% subsidised** — this polarisation key to protocol sustainability. | ✅ |
+| 04 | [Does High Funding Predict a Pullback? Evidence from Crypto Derivatives](research/04-funding-rate-market-top-signal.en.md) | Macro · Derivatives · Market cycle | [中文](research/04-funding-rate-market-top-signal.md) · [EN](research/04-funding-rate-market-top-signal.en.md) | At the daily horizon funding is a **very weak contrarian signal** (`corr ≈ −0.064`) — a crowding gauge, not a reliable timing switch. | ✅ |
 
 Planned topics:
 
@@ -47,8 +47,11 @@ Planned topics:
 │   ├── 01-eip1559-gas-fee-redistribution.md        # Note 01 (中文)
 │   ├── 01-eip1559-gas-fee-redistribution.en.md     # Note 01 (English)
 │   ├── 02-mev-boost-value-distribution.md          # Note 02 (中文)
+│   ├── 02-mev-boost-value-distribution.en.md       # Note 02 (English)
 │   ├── 03-liquidity-mining-subsidy-efficiency.md   # Note 03 (中文)
-│   └── 04-funding-rate-market-top-signal.md        # Note 04 (中文)
+│   ├── 03-liquidity-mining-subsidy-efficiency.en.md # Note 03 (English)
+│   ├── 04-funding-rate-market-top-signal.md        # Note 04 (中文)
+│   └── 04-funding-rate-market-top-signal.en.md     # Note 04 (English)
 ├── queries/                                    # reproducible DuneSQL queries
 ├── tools/                                      # chartlib.py + build_charts.py (real data → SVG)
 ├── assets/charts/                              # generated SVG charts (no Dune needed)
