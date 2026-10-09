@@ -74,13 +74,13 @@ Logically, **high positive funding = crowded long leverage = potential long-sque
 
 ### Figure 4-1 · BTC price vs funding (7-day average)
 
-![price vs funding](../assets/charts/n04_01_price_vs_funding.svg)
+![price vs funding](../assets/charts/n04_01_price_vs_funding_en.svg)
 
 *Figure 4-1 · BTC price (solid) vs funding-rate 7-day average (grey dashed, right axis). Meaning: price advances often coincide with rising funding (long crowding), but **high funding does not necessarily mean price is about to fall**. Source: Hyperliquid BTC perps.*
 
 ### Figure 4-2 · Daily funding distribution
 
-![funding distribution](../assets/charts/n04_02_funding_hist.svg)
+![funding distribution](../assets/charts/n04_02_funding_hist_en.svg)
 
 *Figure 4-2 · Distribution of the daily funding rate. Meaning: the x-axis is the daily funding rate (%), the y-axis is the number of days; the mass sits just above 0 with a **negative tail** (short crowding). Source: Hyperliquid.*
 
@@ -88,13 +88,13 @@ Logically, **high positive funding = crowded long leverage = potential long-sque
 
 ### Figure 4-3 · Forward 7-day return by funding decile
 
-![decile forward returns](../assets/charts/n04_03_decile_forward.svg)
+![decile forward returns](../assets/charts/n04_03_decile_forward_en.svg)
 
 *Figure 4-3 · Funding deciles (D1 lowest → D10 highest) vs mean forward 7-day return. Meaning: if "high funding predicts a pullback", D10 should be lowest/negative; in fact **D10 = +0.12%, D1 = +0.22%** — right direction, tiny gap. Source: Hyperliquid.*
 
 ### Figure 4-4 · Funding vs forward 7-day return (scatter)
 
-![funding vs fwd return](../assets/charts/n04_04_scatter.svg)
+![funding vs fwd return](../assets/charts/n04_04_scatter_en.svg)
 
 *Figure 4-4 · Funding vs forward 7-day return (each point = one day). Meaning: the cloud is nearly shapeless with a **slightly downward** fit — i.e. a very weak relationship. Source: Hyperliquid.*
 
@@ -122,6 +122,27 @@ Logically, **high positive funding = crowded long leverage = potential long-sque
 
 ## 9. References
 See [`references/bibliography.md`](../references/bibliography.md): Basu, Easley, O'Hara & Sirer (2019); Roughgarden (2021).
+
+---
+
+## Appendix · Chart & Data Reproduction
+
+| Chart | Source | Command |
+| --- | --- | --- |
+| Fig 4-1 price vs funding | Hyperliquid `fundingHistory` + `candleSnapshot` | `python3 tools/build_charts.py 04` |
+| Fig 4-2 funding-rate distribution | idem | idem |
+| Fig 4-3 forward return by decile | idem | idem |
+| Fig 4-4 funding vs forward 7-day return | idem | idem |
+
+```bash
+python3 tools/build_charts.py 04    # fetch BTC hourly funding + daily candles + render SVG
+python3 tools/translate_charts.py   # generate English charts *_en.svg
+```
+
+- Raw data: [`data/n04_funding.json`](../data/n04_funding.json), [`data/n04_candles.json`](../data/n04_candles.json), [`data/n04_merged.json`](../data/n04_merged.json)
+- Summary: [`data/summary_04.json`](../data/summary_04.json) · Provenance: [`data/README.md`](../data/README.md)
+
+**Metric cheat-sheet**: `daily funding = Σ(hourly rates) × 100%`; `fwd7 = close_{t+7} / close_t − 1`; `corr = Pearson`.
 
 ---
 

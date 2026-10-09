@@ -53,7 +53,7 @@
 │   ├── 04-funding-rate-market-top-signal.md        # Note 04 中文
 │   └── 04-funding-rate-market-top-signal_en.md     # Note 04 EN
 ├── queries/                                    # 可复现的 DuneSQL 查询
-├── tools/                                      # chartlib.py + build_charts.py（真实数据 → SVG）
+├── tools/                                      # chartlib.py + build_charts.py + translate_charts.py（真实数据 → SVG）
 ├── assets/charts/                              # 生成的 SVG 图表（不依赖 Dune）
 ├── data/                                       # 抓取到的原始 JSON + 口径登记
 └── references/bibliography.md                  # 参考文献（学术论文 + 链上数据源）
@@ -68,8 +68,9 @@
 3. 若想**不依赖 Dune** 重新生成图表，运行本项目自带的取数+绘图管线（全部为公开、免 key 接口）：
    ```bash
    python3 tools/build_charts.py        # 抓取 Blockchair / Binance / DefiLlama / MEV relay 数据
+   python3 tools/translate_charts.py    # 生成英文版图表 assets/charts/*_en.svg
    ```
-   它会把原始 JSON 写入 `data/`，把 SVG 图表写入 `assets/charts/`。无需 API key、无需 matplotlib、无需 Dune。
+   它会把原始 JSON 写入 `data/`，把 SVG 图表写入 `assets/charts/`（中文版 `*.svg` + 英文版 `*_en.svg`）。无需 API key、无需 matplotlib、无需 Dune。
 
 ## ⚖️ 免责声明
 

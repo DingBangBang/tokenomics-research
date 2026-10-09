@@ -73,7 +73,7 @@ The clean measures of subsidy efficiency are **subsidy share** and **real fees /
 
 ### Figure 3-1 · How much yield is a token subsidy?
 
-![subsidy share distribution](../assets/charts/n03_01_reward_share_hist.svg)
+![subsidy share distribution](../assets/charts/n03_01_reward_share_hist_en.svg)
 
 *Figure 3-1 · Distribution of pool subsidy share (reward share). Meaning: the x-axis is the percentage of yield coming from token subsidies, the y-axis is the number of pools; **many pools cluster near 0 (yield almost entirely real fees)** while a "pure-subsidy" tail sits to the right. Source: DefiLlama yields API, 985 pools.*
 
@@ -81,13 +81,13 @@ The clean measures of subsidy efficiency are **subsidy share** and **real fees /
 
 ### Figure 3-2 · Base yield vs token subsidy (top-120 pools by TVL)
 
-![base vs reward APY](../assets/charts/n03_02_reward_vs_base.svg)
+![base vs reward APY](../assets/charts/n03_02_reward_vs_base_en.svg)
 
 *Figure 3-2 · Base APY vs reward APY. Meaning: the x-axis is real fee yield, the y-axis is subsidy yield; points in the lower-right (high subsidy, low base) are "subsidy-sustained" pools. Source: DefiLlama yields.*
 
 ### Figure 3-3 · Real protocol revenue (30-day fees)
 
-![protocol fees](../assets/charts/n03_03_protocol_fees.svg)
+![protocol fees](../assets/charts/n03_03_protocol_fees_en.svg)
 
 *Figure 3-3 · 30-day fees of leading protocols (USD m). Meaning: this is **real, non-subsidised** revenue — a protocol's "endogenous" earning power. Source: DefiLlama fees API.*
 
@@ -95,7 +95,7 @@ The clean measures of subsidy efficiency are **subsidy share** and **real fees /
 
 ### Figure 3-4 · Subsidy intensity vs TVL
 
-![TVL vs reward APY](../assets/charts/n03_04_tvl_vs_reward.svg)
+![TVL vs reward APY](../assets/charts/n03_04_tvl_vs_reward_en.svg)
 
 *Figure 3-4 · Pool TVL vs subsidy APY. Meaning: the x-axis is pool TVL (USD m), the y-axis is subsidy APY; if subsidies could "buy" TVL we would see upper-right clustering — instead it is **diffuse**, i.e. high subsidies need not bring high TVL. Source: DefiLlama yields.*
 
@@ -124,6 +124,27 @@ Treating a subsidy as **marketing spend**, its ROI = **durable real fees generat
 
 ## 9. References
 See [`references/bibliography.md`](../references/bibliography.md): Schär (2021); Lehar & Parlour (2021); Capponi & Jia (2021).
+
+---
+
+## Appendix · Chart & Data Reproduction
+
+| Chart | Source | Command |
+| --- | --- | --- |
+| Fig 3-1 subsidy-share distribution | DefiLlama yields API | `python3 tools/build_charts.py 03` |
+| Fig 3-2 base APY vs reward APY | idem | idem |
+| Fig 3-3 protocol 30-day fees | DefiLlama fees API | idem |
+| Fig 3-4 TVL vs reward APY | DefiLlama yields | idem |
+
+```bash
+python3 tools/build_charts.py 03    # fetch 12 protocols' fees + 985 pools' yields + render SVG
+python3 tools/translate_charts.py   # generate English charts *_en.svg
+```
+
+- Raw data: [`data/n03_protocol_fees.json`](../data/n03_protocol_fees.json), [`data/n03_pools_sample.json`](../data/n03_pools_sample.json)
+- Summary: [`data/summary_03.json`](../data/summary_03.json) · Provenance: [`data/README.md`](../data/README.md)
+
+**Metric cheat-sheet**: `subsidy_share = apyReward /(apyBase + apyReward)`; `subsidy efficiency = durable real fees / subsidy spend`.
 
 ---
 

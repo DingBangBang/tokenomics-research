@@ -185,4 +185,25 @@ EIP-1559 把 base fee 变成"公共品"（销毁，归全体持币者）；MEV �
 
 ---
 
+## 附录 · 图表与数据复现
+
+| 图表 | 数据源 | 复现命令 |
+| --- | --- | --- |
+| 图 2-1 单区块 MEV 价值分布 | MEV-Boost relay bidtrace API | `python3 tools/build_charts.py 02` |
+| 图 2-2 构建者集中度（Top-10） | 同上 | 同上 |
+| 图 2-3 MEV 价值 vs gas_used | 同上 | 同上 |
+| 图 2-4 各 relay 平均 MEV | 同上 | 同上 |
+
+```bash
+python3 tools/build_charts.py 02    # 抓取 5 个 relay 的 bidtrace + 渲染 SVG
+python3 tools/translate_charts.py   # 生成英文版图表 *_en.svg
+```
+
+- 原始数据：[`data/n02_mev_blocks.json`](../data/n02_mev_blocks.json)、[`data/n02_relay_summary.json`](../data/n02_relay_summary.json)
+- 统计摘要：[`data/summary_02.json`](../data/summary_02.json) · 口径说明：[`data/README.md`](../data/README.md)
+
+**指标速查**：`单区块 MEV = value / 1e18 (ETH)`；`HHI = Σ(份额²)`；`Top-3 份额 = 前 3 大构建者的价值占比`。
+
+---
+
 *© 2026 Bonnie Bennett · 文字 CC BY 4.0 · SQL/代码 MIT · 本笔记为求职作品展示，非投资建议。*

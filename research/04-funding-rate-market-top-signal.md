@@ -126,4 +126,25 @@ funding < 0 : 空头 → 多头（空头拥挤/折价）
 
 ---
 
+## 附录 · 图表与数据复现
+
+| 图表 | 数据源 | 复现命令 |
+| --- | --- | --- |
+| 图 4-1 价格 vs 资金费率 | Hyperliquid `fundingHistory` + `candleSnapshot` | `python3 tools/build_charts.py 04` |
+| 图 4-2 资金费率分布 | 同上 | 同上 |
+| 图 4-3 十分位前瞻收益 | 同上 | 同上 |
+| 图 4-4 funding vs 未来 7 日收益 | 同上 | 同上 |
+
+```bash
+python3 tools/build_charts.py 04    # 抓取 BTC 小时级资金费率 + 日线价格 + 渲染 SVG
+python3 tools/translate_charts.py   # 生成英文版图表 *_en.svg
+```
+
+- 原始数据：[`data/n04_funding.json`](../data/n04_funding.json)、[`data/n04_candles.json`](../data/n04_candles.json)、[`data/n04_merged.json`](../data/n04_merged.json)
+- 统计摘要：[`data/summary_04.json`](../data/summary_04.json) · 口径说明：[`data/README.md`](../data/README.md)
+
+**指标速查**：`日度资金费率 = Σ(当日小时费率) × 100%`；`fwd7 = close_{t+7} / close_t − 1`；`相关系数 = Pearson`。
+
+---
+
 *© 2026 Bonnie Bennett · 文字 CC BY 4.0 · SQL/代码 MIT · 本笔记为求职作品展示，非投资建议。*

@@ -128,4 +128,25 @@
 
 ---
 
+## 附录 · 图表与数据复现
+
+| 图表 | 数据源 | 复现命令 |
+| --- | --- | --- |
+| 图 3-1 补贴占比分布 | DefiLlama yields API | `python3 tools/build_charts.py 03` |
+| 图 3-2 base APY vs reward APY | 同上 | 同上 |
+| 图 3-3 协议 30 天费用 | DefiLlama fees API | 同上 |
+| 图 3-4 TVL vs reward APY | DefiLlama yields | 同上 |
+
+```bash
+python3 tools/build_charts.py 03    # 抓取 12 个协议费用 + 985 个池子收益率 + 渲染 SVG
+python3 tools/translate_charts.py   # 生成英文版图表 *_en.svg
+```
+
+- 原始数据：[`data/n03_protocol_fees.json`](../data/n03_protocol_fees.json)、[`data/n03_pools_sample.json`](../data/n03_pools_sample.json)
+- 统计摘要：[`data/summary_03.json`](../data/summary_03.json) · 口径说明：[`data/README.md`](../data/README.md)
+
+**指标速查**：`subsidy_share = apyReward /(apyBase + apyReward)`；`补贴效率 = 持久真实费用 / 补贴支出`。
+
+---
+
 *© 2026 Bonnie Bennett · 文字 CC BY 4.0 · SQL/代码 MIT · 本笔记为求职作品展示，非投资建议。*

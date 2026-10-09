@@ -106,7 +106,7 @@ Sample: **5 relays × latest 100 blocks = 500 blocks** (snapshot).
 
 ### Figure 2-1 · Per-block MEV value distribution
 
-![per-block MEV value distribution](../assets/charts/n02_01_mev_value_hist.svg)
+![per-block MEV value distribution](../assets/charts/n02_01_mev_value_hist_en.svg)
 
 *Figure 2-1 · Histogram of per-block MEV value (proposer payload value). Meaning: the x-axis is the MEV value (ETH) a relay paid the proposer in a block, the y-axis is frequency; the distribution is strongly right-skewed — **most blocks carry tiny MEV while a few carry the bulk of value**. Source: MEV-Boost relay bidtrace API, 500 blocks.*
 
@@ -114,7 +114,7 @@ Sample: **5 relays × latest 100 blocks = 500 blocks** (snapshot).
 
 ### Figure 2-2 · Builder concentration: top-10 share
 
-![builder concentration](../assets/charts/n02_02_builder_concentration.svg)
+![builder concentration](../assets/charts/n02_02_builder_concentration_en.svg)
 
 *Figure 2-2 · Top-10 builders' share of MEV value. Meaning: the x-axis is the builder `builder_pubkey` prefix (anonymous), the y-axis is that builder's value share; a higher curve means a more concentrated market. Source: relay bidtrace.*
 
@@ -122,13 +122,13 @@ Sample: **5 relays × latest 100 blocks = 500 blocks** (snapshot).
 
 ### Figure 2-3 · MEV value vs block gas used
 
-![MEV vs gas](../assets/charts/n02_03_value_vs_gas.svg)
+![MEV vs gas](../assets/charts/n02_03_value_vs_gas_en.svg)
 
 *Figure 2-3 · Per-block MEV value vs gas used. Meaning: the x-axis is block gas, the y-axis is MEV value; the cloud is **loose**, so high MEV is not simply "full blocks" — it depends on the **arbitrage value of the transactions** (information rent > capacity rent). Source: relay bidtrace.*
 
 ### Figure 2-4 · Average per-block MEV by relay
 
-![relay comparison](../assets/charts/n02_04_relay_avg_value.svg)
+![relay comparison](../assets/charts/n02_04_relay_avg_value_en.svg)
 
 *Figure 2-4 · Average per-block MEV value by relay. Meaning: the x-axis is the relay, the y-axis its average MEV payment over the latest 100 blocks; differences reflect **block quality / order flow**. Source: each relay's public API.*
 
@@ -175,6 +175,27 @@ EIP-1559 made the base fee a "public good" (burnt, returned to all holders); MEV
 
 ## 9. References
 See [`references/bibliography.md`](../references/bibliography.md): Daian et al. (2019); Budish & Gans (2023); Roughgarden (2021); Flashbots MEV-Boost docs.
+
+---
+
+## Appendix · Chart & Data Reproduction
+
+| Chart | Source | Command |
+| --- | --- | --- |
+| Fig 2-1 per-block MEV distribution | MEV-Boost relay bidtrace API | `python3 tools/build_charts.py 02` |
+| Fig 2-2 builder concentration (top-10) | idem | idem |
+| Fig 2-3 MEV vs gas_used | idem | idem |
+| Fig 2-4 average MEV by relay | idem | idem |
+
+```bash
+python3 tools/build_charts.py 02    # fetch 5 relays' bidtrace + render SVG
+python3 tools/translate_charts.py   # generate English charts *_en.svg
+```
+
+- Raw data: [`data/n02_mev_blocks.json`](../data/n02_mev_blocks.json), [`data/n02_relay_summary.json`](../data/n02_relay_summary.json)
+- Summary: [`data/summary_02.json`](../data/summary_02.json) · Provenance: [`data/README.md`](../data/README.md)
+
+**Metric cheat-sheet**: `per-block MEV = value / 1e18 (ETH)`; `HHI = Σ(share²)`; `top-3 share = value share of the 3 largest builders`.
 
 ---
 

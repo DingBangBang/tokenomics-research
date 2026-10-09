@@ -53,7 +53,7 @@ Planned topics:
 │   ├── 04-funding-rate-market-top-signal.md        # Note 04 (中文)
 │   └── 04-funding-rate-market-top-signal_en.md     # Note 04 (English)
 ├── queries/                                    # reproducible DuneSQL queries
-├── tools/                                      # chartlib.py + build_charts.py (real data → SVG)
+├── tools/                                      # chartlib.py + build_charts.py + translate_charts.py (real data → SVG)
 ├── assets/charts/                              # generated SVG charts (no Dune needed)
 ├── data/                                       # raw JSON data + provenance
 └── references/bibliography.md                  # academic papers + data sources
@@ -68,8 +68,9 @@ Planned topics:
 3. To regenerate the charts **without Dune**, run our own pipeline (public, key-less APIs):
    ```bash
    python3 tools/build_charts.py        # fetches Blockchair / Binance / DefiLlama / MEV relay data
+   python3 tools/translate_charts.py    # generates English chart copies assets/charts/*_en.svg
    ```
-   This writes raw JSON into `data/` and renders `assets/charts/*.svg`. No API keys, no matplotlib, no Dune.
+   This writes raw JSON into `data/` and renders `assets/charts/*.svg` (Chinese `*.svg` + English `*_en.svg`). No API keys, no matplotlib, no Dune.
 
 ## ⚖️ Disclaimer
 

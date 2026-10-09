@@ -235,7 +235,7 @@ Full SQL is in [`queries/`](../queries); the key-less pipeline that produced the
 
 ### Figure 6-1 · Fee split: burn vs validator income (tip)
 
-![Monthly burn vs tips](../assets/charts/n01_04_fee_decomposition.svg)
+![Monthly burn vs tips](../assets/charts/n01_04_fee_decomposition_en.svg)
 
 *Figure 6-1 · Monthly ETH burnt vs priority fees paid to producers (tip). Meaning: since EIP-1559 the execution-layer fee is split into a burnt base fee and a tip paid to validators; the two curves show the relative size of the "tax" and the "wage". Source: Blockchair aggregated API; estimate `avg(base_fee)×Σgas` and `avg(gas_price)×Σgas`.*
 
@@ -243,19 +243,19 @@ Full SQL is in [`queries/`](../queries); the key-less pipeline that produced the
 
 ### Figure 6-2 · Cumulative burn (the size of the "deflationary fiscal policy")
 
-![Cumulative burn](../assets/charts/n01_02_cumulative_burn.svg)
+![Cumulative burn](../assets/charts/n01_02_cumulative_burn_en.svg)
 
 *Figure 6-2 · Cumulative ETH burnt since EIP-1559. Meaning: this monotonically rising curve is the balance sheet of Ethereum's "deflationary fiscal policy" — it measures ETH permanently removed from circulation. Source: Blockchair.*
 
 ### Figure 6-3 · Monthly burn
 
-![Monthly ETH burn](../assets/charts/n01_01_monthly_burn.svg)
+![Monthly ETH burn](../assets/charts/n01_01_monthly_burn_en.svg)
 
 *Figure 6-3 · Monthly ETH burnt. Meaning: the burn is a strong proxy for block-space demand, spiking in bull/congested periods and falling in quiet ones — clearly cyclical. Source: Blockchair.*
 
 ### Figure 6-4 · Structural tax rate τ over time
 
-![Structural tax rate tau over time](../assets/charts/n01_03_tau_time.svg)
+![Structural tax rate tau over time](../assets/charts/n01_03_tau_time_en.svg)
 
 *Figure 6-4 · Structural tax rate τ = burn /(burn + tip) over time. Meaning: τ is the share of every unit of fee that is "taxed" (burnt) rather than paid to the producer — this note's core metric. Source: Blockchair blocks + transactions.*
 
@@ -276,7 +276,7 @@ Full SQL is in [`queries/`](../queries); the key-less pipeline that produced the
 
 ### Figure 6-5 · τ vs congestion (H2 / H3)
 
-![tau vs average base fee](../assets/charts/n01_05_tau_vs_congestion.svg)
+![tau vs average base fee](../assets/charts/n01_05_tau_vs_congestion_en.svg)
 
 *Figure 6-5 · Structural tax rate τ vs average base fee (each point = one month). Meaning: the x-axis proxies congestion (average base fee), the y-axis is the burnt share τ; the upward fit shows **the more congested, the higher the "tax rate"**. Source: Blockchair.*
 
